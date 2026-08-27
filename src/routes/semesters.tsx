@@ -121,27 +121,72 @@ function SemesterCard({
                   <span className="pr-3">{course.name}</span>
                 </AccordionTrigger>
                 <AccordionContent>
-                  {items.length === 0 ? (
-                    <p className="rounded-lg bg-muted px-4 py-3 text-sm text-muted-foreground">
-                      Resources coming soon.
-                    </p>
+                  {semester.year === 4 ? (
+                    items.length === 0 ? (
+                      <p className="rounded-lg bg-muted px-4 py-3 text-sm text-muted-foreground">
+                        Resources coming soon.
+                      </p>
+                    ) : (
+                      <ul className="space-y-2">
+                        {items.map((r) => (
+                          <li key={r.id}>
+                            <a
+                              href={r.url ?? "#"}
+                              target="_blank"
+                              rel="noreferrer"
+                              className="flex items-center gap-2 rounded-lg border border-border px-3 py-2 text-sm hover:border-primary hover:text-primary"
+                            >
+                              <FileText className="h-4 w-4 shrink-0" aria-hidden="true" />
+                              <span className="flex-1">{r.title}</span>
+                              <ExternalLink className="h-3.5 w-3.5 opacity-60" aria-hidden="true" />
+                            </a>
+                          </li>
+                        ))}
+                      </ul>
+                    )
                   ) : (
-                    <ul className="space-y-2">
-                      {items.map((r) => (
-                        <li key={r.id}>
-                          <a
-                            href={r.url ?? "#"}
-                            target="_blank"
-                            rel="noreferrer"
-                            className="flex items-center gap-2 rounded-lg border border-border px-3 py-2 text-sm hover:border-primary hover:text-primary"
+                    <div className="space-y-2.5">
+                      {RESOURCE_CATEGORIES.map((cat) => {
+                        const catItems = items.filter(
+                          (r) => (r.resource_type ?? "") === cat.key,
+                        );
+                        return (
+                          <div
+                            key={cat.key}
+                            className="rounded-lg border border-border px-3 py-2.5"
                           >
-                            <FileText className="h-4 w-4 shrink-0" aria-hidden="true" />
-                            <span className="flex-1">{r.title}</span>
-                            <ExternalLink className="h-3.5 w-3.5 opacity-60" aria-hidden="true" />
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
+                            <div className="flex items-center justify-between gap-2">
+                              <span className="text-sm font-medium">{cat.label}</span>
+                              <Badge variant="outline" className="text-xs">
+                                {catItems.length}
+                              </Badge>
+                            </div>
+                            {catItems.length === 0 ? (
+                              <p className="mt-1.5 text-xs text-muted-foreground">
+                                Coming soon.
+                              </p>
+                            ) : (
+                              <ul className="mt-2 space-y-1.5">
+                                {catItems.map((r) => (
+                                  <li key={r.id}>
+                                    <a
+                                      href={r.url ?? "#"}
+                                      target="_blank"
+                                      rel="noreferrer"
+                                      className="flex items-center gap-2 rounded-md border border-border px-2.5 py-1.5 text-sm hover:border-primary hover:text-primary"
+                                    >
+                                      <FileText className="h-4 w-4 shrink-0" aria-hidden="true" />
+                                      <span className="flex-1">{r.title}</span>
+                                      <ExternalLink className="h-3.5 w-3.5 opacity-60" aria-hidden="true" />
+                                    </a>
+                                  </li>
+                                ))}
+                              </ul>
+                            )}
+                          </div>
+                        );
+                      })}
+                    </div>
                   )}
                 </AccordionContent>
               </AccordionItem>
