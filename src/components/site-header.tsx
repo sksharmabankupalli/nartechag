@@ -31,13 +31,8 @@ export function SiteHeader() {
           <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary text-primary-foreground">
             <Sprout className="h-5 w-5" aria-hidden="true" />
           </span>
-          <span className="flex flex-col leading-none">
-            <span className="text-[10px] font-medium uppercase tracking-[0.15em] text-muted-foreground">
-              by Sharma & Kartik
-            </span>
-            <span className="mt-0.5 font-display text-xl font-semibold tracking-tight text-primary">
-              NarTechAg
-            </span>
+          <span className="font-display text-xl font-semibold tracking-tight text-primary">
+            NarTechAg
           </span>
         </Link>
 
