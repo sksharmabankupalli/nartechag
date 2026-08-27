@@ -159,6 +159,17 @@ export const PROGRAM_TOTALS = {
   grandTotal: "167 + 10*",
 };
 
+// Canonical resource categories shown under each course (except Final Year).
+// `key` is stored in the resources.resource_type column; `label` is shown in UI.
+export const RESOURCE_CATEGORIES = [
+  { key: "lecture_outlines", label: "Lecture Outlines" },
+  { key: "semester_exam", label: "Semester Exam Resources" },
+  { key: "practicals", label: "Practicals Resources" },
+  { key: "pyqs", label: "Previous Year Question Papers (PYQs)" },
+] as const;
+
+export type ResourceCategoryKey = (typeof RESOURCE_CATEGORIES)[number]["key"];
+
 export const YEARS = [1, 2, 3, 4].map((year) => ({
   year,
   label: YEAR_LABELS[year]!,
