@@ -183,7 +183,7 @@ function UpdatesManager() {
 function ResourcesManager() {
   const qc = useQueryClient();
   const [semester, setSemester] = useState(1);
-  const [form, setForm] = useState({ course_name: "", title: "", url: "", resource_type: "link" });
+  const [form, setForm] = useState({ course_name: "", title: "", url: "", resource_type: "lecture_outlines" });
 
   const currentSem = SEMESTERS.find((s) => s.number === semester);
 
