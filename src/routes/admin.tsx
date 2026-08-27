@@ -289,6 +289,21 @@ function ResourcesManager() {
             onChange={(e) => setForm({ ...form, url: e.target.value })}
           />
         </div>
+        <div className="space-y-1.5">
+          <Label htmlFor="r-type">Resource category</Label>
+          <select
+            id="r-type"
+            value={form.resource_type}
+            onChange={(e) => setForm({ ...form, resource_type: e.target.value })}
+            className="h-10 w-full rounded-md border border-input bg-background px-3 text-sm"
+          >
+            {RESOURCE_CATEGORIES.map((c) => (
+              <option key={c.key} value={c.key}>
+                {c.label}
+              </option>
+            ))}
+          </select>
+        </div>
         {add.isError && <p className="text-sm text-destructive">Could not save resource.</p>}
         <Button type="submit" disabled={add.isPending}>
           Add resource
