@@ -212,7 +212,7 @@ function ResourcesManager() {
       if (error) throw error;
     },
     onSuccess: () => {
-      setForm({ course_name: "", title: "", url: "", resource_type: "link" });
+      setForm({ course_name: "", title: "", url: "", resource_type: "lecture_outlines" });
       void qc.invalidateQueries({ queryKey: ["resources"] });
     },
   });
