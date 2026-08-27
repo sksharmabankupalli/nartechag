@@ -192,7 +192,7 @@ function ResourcesManager() {
     queryFn: async () => {
       const { data, error } = await supabase
         .from("resources")
-        .select("id, semester, course_name, title, url")
+        .select("id, semester, course_name, title, url, resource_type")
         .order("created_at", { ascending: true });
       if (error) throw error;
       return data ?? [];
