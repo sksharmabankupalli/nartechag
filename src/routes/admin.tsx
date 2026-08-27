@@ -319,6 +319,14 @@ function ResourcesManager() {
             <span className="flex-1">
               <span className="text-muted-foreground">Sem {r.semester} · </span>
               {r.title}
+              {r.resource_type && (
+                <span className="ml-1 text-muted-foreground">
+                  (
+                  {RESOURCE_CATEGORIES.find((c) => c.key === r.resource_type)?.label ??
+                    r.resource_type}
+                  )
+                </span>
+              )}
             </span>
             <button
               aria-label={`Delete ${r.title}`}
