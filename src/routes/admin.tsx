@@ -9,7 +9,7 @@ import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import { supabase } from "@/integrations/supabase/client";
 import { useAuth } from "@/hooks/useAuth";
-import { SEMESTERS } from "@/data/curriculum";
+import { RESOURCE_CATEGORIES, SEMESTERS } from "@/data/curriculum";
 
 export const Route = createFileRoute("/admin")({
   ssr: false,
@@ -183,7 +183,7 @@ function UpdatesManager() {
 function ResourcesManager() {
   const qc = useQueryClient();
   const [semester, setSemester] = useState(1);
-  const [form, setForm] = useState({ course_name: "", title: "", url: "", resource_type: "link" });
+  const [form, setForm] = useState({ course_name: "", title: "", url: "", resource_type: "lecture_outlines" });
 
   const currentSem = SEMESTERS.find((s) => s.number === semester);
 
@@ -192,7 +192,7 @@ function ResourcesManager() {
     queryFn: async () => {
       const { data, error } = await supabase
         .from("resources")
-        .select("id, semester, course_name, title, url")
+        .select("id, semester, course_name, title, url, resource_type")
         .order("created_at", { ascending: true });
       if (error) throw error;
       return data ?? [];
@@ -212,7 +212,7 @@ function ResourcesManager() {
       if (error) throw error;
     },
     onSuccess: () => {
-      setForm({ course_name: "", title: "", url: "", resource_type: "link" });
+      setForm({ course_name: "", title: "", url: "", resource_type: "lecture_outlines" });
       void qc.invalidateQueries({ queryKey: ["resources"] });
     },
   });
@@ -289,6 +289,21 @@ function ResourcesManager() {
             onChange={(e) => setForm({ ...form, url: e.target.value })}
           />
         </div>
+        <div className="space-y-1.5">
+          <Label htmlFor="r-type">Resource category</Label>
+          <select
+            id="r-type"
+            value={form.resource_type}
+            onChange={(e) => setForm({ ...form, resource_type: e.target.value })}
+            className="h-10 w-full rounded-md border border-input bg-background px-3 text-sm"
+          >
+            {RESOURCE_CATEGORIES.map((c) => (
+              <option key={c.key} value={c.key}>
+                {c.label}
+              </option>
+            ))}
+          </select>
+        </div>
         {add.isError && <p className="text-sm text-destructive">Could not save resource.</p>}
         <Button type="submit" disabled={add.isPending}>
           Add resource
@@ -304,6 +319,14 @@ function ResourcesManager() {
             <span className="flex-1">
               <span className="text-muted-foreground">Sem {r.semester} · </span>
               {r.title}
+              {r.resource_type && (
+                <span className="ml-1 text-muted-foreground">
+                  (
+                  {RESOURCE_CATEGORIES.find((c) => c.key === r.resource_type)?.label ??
+                    r.resource_type}
+                  )
+                </span>
+              )}
             </span>
             <button
               aria-label={`Delete ${r.title}`}
