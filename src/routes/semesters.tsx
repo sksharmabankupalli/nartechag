@@ -9,7 +9,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
-import { YEARS, type Semester } from "@/data/curriculum";
+import { RESOURCE_CATEGORIES, YEARS, type Semester } from "@/data/curriculum";
 import { supabase } from "@/integrations/supabase/client";
 
 export const Route = createFileRoute("/semesters")({
