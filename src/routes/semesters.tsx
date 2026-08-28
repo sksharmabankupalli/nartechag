@@ -1,8 +1,10 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { ExternalLink, FileText } from "lucide-react";
+import { Download, Eye, FileText } from "lucide-react";
 import { PageShell, PageHeader } from "@/components/page-shell";
 import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
+
 import {
   Accordion,
   AccordionContent,
