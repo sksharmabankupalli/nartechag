@@ -1,8 +1,10 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { ExternalLink, FileText } from "lucide-react";
+import { Download, Eye, FileText } from "lucide-react";
 import { PageShell, PageHeader } from "@/components/page-shell";
 import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
+
 import {
   Accordion,
   AccordionContent,
@@ -129,20 +131,10 @@ function SemesterCard({
                     ) : (
                       <ul className="space-y-2">
                         {items.map((r) => (
-                          <li key={r.id}>
-                            <a
-                              href={r.url ?? "#"}
-                              target="_blank"
-                              rel="noreferrer"
-                              className="flex items-center gap-2 rounded-lg border border-border px-3 py-2 text-sm hover:border-primary hover:text-primary"
-                            >
-                              <FileText className="h-4 w-4 shrink-0" aria-hidden="true" />
-                              <span className="flex-1">{r.title}</span>
-                              <ExternalLink className="h-3.5 w-3.5 opacity-60" aria-hidden="true" />
-                            </a>
-                          </li>
+                          <ResourceRow key={r.id} resource={r} />
                         ))}
                       </ul>
+
                     )
                   ) : (
                     <div className="space-y-2.5">
@@ -166,22 +158,12 @@ function SemesterCard({
                                 Coming soon.
                               </p>
                             ) : (
-                              <ul className="mt-2 space-y-1.5">
-                                {catItems.map((r) => (
-                                  <li key={r.id}>
-                                    <a
-                                      href={r.url ?? "#"}
-                                      target="_blank"
-                                      rel="noreferrer"
-                                      className="flex items-center gap-2 rounded-md border border-border px-2.5 py-1.5 text-sm hover:border-primary hover:text-primary"
-                                    >
-                                      <FileText className="h-4 w-4 shrink-0" aria-hidden="true" />
-                                      <span className="flex-1">{r.title}</span>
-                                      <ExternalLink className="h-3.5 w-3.5 opacity-60" aria-hidden="true" />
-                                    </a>
-                                  </li>
-                                ))}
-                              </ul>
+                               <ul className="mt-2 space-y-1.5">
+                                 {catItems.map((r) => (
+                                   <ResourceRow key={r.id} resource={r} />
+                                 ))}
+                               </ul>
+
                             )}
                           </div>
                         );
@@ -195,5 +177,32 @@ function SemesterCard({
         </Accordion>
       )}
     </div>
+  );
+}
+
+function ResourceRow({ resource }: { resource: Resource }) {
+  const href = resource.url ?? "#";
+  const fileName =
+    href.split("/").pop()?.split("?")[0] || `${resource.title}.pdf`;
+
+  return (
+    <li className="flex items-center gap-2 rounded-md border border-border px-2.5 py-1.5 text-sm">
+      <FileText className="h-4 w-4 shrink-0 text-primary" aria-hidden="true" />
+      <span className="flex-1 truncate">{resource.title}</span>
+      <div className="flex shrink-0 items-center gap-1">
+        <Button asChild size="sm" variant="ghost" className="h-7 gap-1 px-2 text-xs">
+          <a href={href} target="_blank" rel="noreferrer">
+            <Eye className="h-3.5 w-3.5" aria-hidden="true" />
+            View
+          </a>
+        </Button>
+        <Button asChild size="sm" variant="outline" className="h-7 gap-1 px-2 text-xs">
+          <a href={href} download={fileName}>
+            <Download className="h-3.5 w-3.5" aria-hidden="true" />
+            Download
+          </a>
+        </Button>
+      </div>
+    </li>
   );
 }
