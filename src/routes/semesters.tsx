@@ -129,20 +129,10 @@ function SemesterCard({
                     ) : (
                       <ul className="space-y-2">
                         {items.map((r) => (
-                          <li key={r.id}>
-                            <a
-                              href={r.url ?? "#"}
-                              target="_blank"
-                              rel="noreferrer"
-                              className="flex items-center gap-2 rounded-lg border border-border px-3 py-2 text-sm hover:border-primary hover:text-primary"
-                            >
-                              <FileText className="h-4 w-4 shrink-0" aria-hidden="true" />
-                              <span className="flex-1">{r.title}</span>
-                              <ExternalLink className="h-3.5 w-3.5 opacity-60" aria-hidden="true" />
-                            </a>
-                          </li>
+                          <ResourceRow key={r.id} resource={r} />
                         ))}
                       </ul>
+
                     )
                   ) : (
                     <div className="space-y-2.5">
