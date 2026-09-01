@@ -66,6 +66,7 @@ export type Database = {
         Row: {
           course_name: string
           created_at: string
+          description: string | null
           id: string
           resource_type: string
           semester: number
@@ -76,6 +77,7 @@ export type Database = {
         Insert: {
           course_name: string
           created_at?: string
+          description?: string | null
           id?: string
           resource_type?: string
           semester: number
@@ -86,6 +88,7 @@ export type Database = {
         Update: {
           course_name?: string
           created_at?: string
+          description?: string | null
           id?: string
           resource_type?: string
           semester?: number
