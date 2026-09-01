@@ -198,23 +198,30 @@ function ResourceRow({ resource }: { resource: Resource }) {
     href.split("/").pop()?.split("?")[0] || `${resource.title}.pdf`;
 
   return (
-    <li className="flex items-center gap-2 rounded-md border border-border px-2.5 py-1.5 text-sm">
-      <FileText className="h-4 w-4 shrink-0 text-primary" aria-hidden="true" />
-      <span className="flex-1 truncate">{resource.title}</span>
-      <div className="flex shrink-0 items-center gap-1">
-        <Button asChild size="sm" variant="ghost" className="h-7 gap-1 px-2 text-xs">
-          <a href={href} target="_blank" rel="noreferrer">
-            <Eye className="h-3.5 w-3.5" aria-hidden="true" />
-            View
-          </a>
-        </Button>
-        <Button asChild size="sm" variant="outline" className="h-7 gap-1 px-2 text-xs">
-          <a href={href} download={fileName}>
-            <Download className="h-3.5 w-3.5" aria-hidden="true" />
-            Download
-          </a>
-        </Button>
+    <li className="rounded-md border border-border px-2.5 py-1.5 text-sm">
+      <div className="flex items-center gap-2">
+        <FileText className="h-4 w-4 shrink-0 text-primary" aria-hidden="true" />
+        <span className="flex-1 truncate">{resource.title}</span>
+        <div className="flex shrink-0 items-center gap-1">
+          <Button asChild size="sm" variant="ghost" className="h-7 gap-1 px-2 text-xs">
+            <a href={href} target="_blank" rel="noreferrer">
+              <Eye className="h-3.5 w-3.5" aria-hidden="true" />
+              View
+            </a>
+          </Button>
+          <Button asChild size="sm" variant="outline" className="h-7 gap-1 px-2 text-xs">
+            <a href={href} download={fileName}>
+              <Download className="h-3.5 w-3.5" aria-hidden="true" />
+              Download
+            </a>
+          </Button>
+        </div>
       </div>
+      {resource.description ? (
+        <p className="mt-1 pl-6 text-xs italic text-muted-foreground">
+          {resource.description}
+        </p>
+      ) : null}
     </li>
   );
 }
