@@ -43,6 +43,7 @@ type Resource = {
   title: string;
   resource_type: string;
   url: string | null;
+  description: string | null;
 };
 
 function SemestersPage() {
@@ -53,7 +54,7 @@ function SemestersPage() {
     queryFn: async (): Promise<Resource[]> => {
       const { data, error } = await supabase
         .from("resources")
-        .select("id, semester, course_name, title, resource_type, url")
+        .select("id, semester, course_name, title, resource_type, url, description")
         .order("created_at", { ascending: true });
       if (error) throw error;
       return data ?? [];
