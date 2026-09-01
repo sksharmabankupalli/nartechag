@@ -181,7 +181,18 @@ function SemesterCard({
 }
 
 function ResourceRow({ resource }: { resource: Resource }) {
-  const href = resource.url ?? "#";
+  // A resource with no URL is a "coming soon" placeholder — show the label
+  // instead of broken View/Download buttons.
+  if (!resource.url) {
+    return (
+      <li className="flex items-center gap-2 rounded-md border border-dashed border-border px-2.5 py-1.5 text-sm text-muted-foreground">
+        <FileText className="h-4 w-4 shrink-0 text-muted-foreground" aria-hidden="true" />
+        <span className="flex-1 truncate italic">{resource.title}</span>
+      </li>
+    );
+  }
+
+  const href = resource.url;
   const fileName =
     href.split("/").pop()?.split("?")[0] || `${resource.title}.pdf`;
 
