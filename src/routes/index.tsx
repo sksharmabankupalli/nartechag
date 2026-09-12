@@ -76,6 +76,15 @@ function Home() {
             <Button asChild size="lg" variant="outline">
               <Link to="/updates">See ANGRAU updates</Link>
             </Button>
+            <Button asChild size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
+              <a
+                href="https://eps.eshiksa.net/DirectFeesv3/NGRanga/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                ANGRAU Students Semester Fee Registration
+              </a>
+            </Button>
           </div>
         </div>
       </section>
