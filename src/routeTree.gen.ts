@@ -13,6 +13,7 @@ import { Route as IndexRouteImport } from './routes/index'
 import { Route as AdminRouteImport } from './routes/admin'
 import { Route as AuthRouteImport } from './routes/auth'
 import { Route as CollegesRouteImport } from './routes/colleges'
+import { Route as OnlineCoursesRouteImport } from './routes/online-courses'
 import { Route as SemestersRouteImport } from './routes/semesters'
 import { Route as UpdatesRouteImport } from './routes/updates'
 
@@ -36,6 +37,11 @@ const CollegesRoute = CollegesRouteImport.update({
   path: '/colleges',
   getParentRoute: () => rootRouteImport,
 } as any)
+const OnlineCoursesRoute = OnlineCoursesRouteImport.update({
+  id: '/online-courses',
+  path: '/online-courses',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const SemestersRoute = SemestersRouteImport.update({
   id: '/semesters',
   path: '/semesters',
@@ -52,6 +58,7 @@ export interface FileRoutesByFullPath {
   '/admin': typeof AdminRoute
   '/auth': typeof AuthRoute
   '/colleges': typeof CollegesRoute
+  '/online-courses': typeof OnlineCoursesRoute
   '/semesters': typeof SemestersRoute
   '/updates': typeof UpdatesRoute
 }
@@ -60,6 +67,7 @@ export interface FileRoutesByTo {
   '/admin': typeof AdminRoute
   '/auth': typeof AuthRoute
   '/colleges': typeof CollegesRoute
+  '/online-courses': typeof OnlineCoursesRoute
   '/semesters': typeof SemestersRoute
   '/updates': typeof UpdatesRoute
 }
@@ -69,20 +77,36 @@ export interface FileRoutesById {
   '/admin': typeof AdminRoute
   '/auth': typeof AuthRoute
   '/colleges': typeof CollegesRoute
+  '/online-courses': typeof OnlineCoursesRoute
   '/semesters': typeof SemestersRoute
   '/updates': typeof UpdatesRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/admin' | '/auth' | '/colleges' | '/semesters' | '/updates'
+  fullPaths:
+    | '/'
+    | '/admin'
+    | '/auth'
+    | '/colleges'
+    | '/online-courses'
+    | '/semesters'
+    | '/updates'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/admin' | '/auth' | '/colleges' | '/semesters' | '/updates'
+  to:
+    | '/'
+    | '/admin'
+    | '/auth'
+    | '/colleges'
+    | '/online-courses'
+    | '/semesters'
+    | '/updates'
   id:
     | '__root__'
     | '/'
     | '/admin'
     | '/auth'
     | '/colleges'
+    | '/online-courses'
     | '/semesters'
     | '/updates'
   fileRoutesById: FileRoutesById
@@ -92,6 +116,7 @@ export interface RootRouteChildren {
   AdminRoute: typeof AdminRoute
   AuthRoute: typeof AuthRoute
   CollegesRoute: typeof CollegesRoute
+  OnlineCoursesRoute: typeof OnlineCoursesRoute
   SemestersRoute: typeof SemestersRoute
   UpdatesRoute: typeof UpdatesRoute
 }
@@ -126,6 +151,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof CollegesRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/online-courses': {
+      id: '/online-courses'
+      path: '/online-courses'
+      fullPath: '/online-courses'
+      preLoaderRoute: typeof OnlineCoursesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/semesters': {
       id: '/semesters'
       path: '/semesters'
@@ -148,6 +180,7 @@ const rootRouteChildren: RootRouteChildren = {
   AdminRoute: AdminRoute,
   AuthRoute: AuthRoute,
   CollegesRoute: CollegesRoute,
+  OnlineCoursesRoute: OnlineCoursesRoute,
   SemestersRoute: SemestersRoute,
   UpdatesRoute: UpdatesRoute,
 }
