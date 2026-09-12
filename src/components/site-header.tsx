@@ -15,6 +15,7 @@ import { cn } from "@/lib/utils";
 const NAV = [
   { to: "/", label: "Home / Courses" },
   { to: "/updates", label: "ANGRAU Updates" },
+  { to: "/online-courses", label: "Online Courses" },
   { to: "/colleges", label: "Colleges" },
 ] as const;
 
