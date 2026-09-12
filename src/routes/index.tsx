@@ -78,6 +78,9 @@ function Home() {
               <Link to="/semesters">Get Course Resources</Link>
             </Button>
             <Button asChild size="lg" variant="outline">
+              <Link to="/online-courses">Online Courses</Link>
+            </Button>
+            <Button asChild size="lg" variant="outline">
               <Link to="/updates">See ANGRAU updates</Link>
             </Button>
             <Button asChild size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
