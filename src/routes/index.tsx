@@ -70,8 +70,12 @@ function Home() {
             into one calm, organised study hub.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
-            <Button asChild size="lg">
-              <Link to="/semesters">Browse semesters</Link>
+            <Button
+              asChild
+              size="lg"
+              className="border-0 bg-gradient-to-r from-primary via-leaf to-harvest text-white shadow-lift ring-2 ring-harvest/30 transition-all hover:-translate-y-0.5 hover:shadow-[0_20px_50px_oklch(0.74_0.135_78/0.45)]"
+            >
+              <Link to="/semesters">Get Course Resources</Link>
             </Button>
             <Button asChild size="lg" variant="outline">
               <Link to="/updates">See ANGRAU updates</Link>
