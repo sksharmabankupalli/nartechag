@@ -1,5 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { BookOpen, GraduationCap, Layers, Newspaper } from "lucide-react";
+import { BookOpen, GraduationCap, Info, Layers, Newspaper } from "lucide-react";
 import { PageShell } from "@/components/page-shell";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -85,6 +85,30 @@ function Home() {
                 ANGRAU Students Semester Fee Registration
               </a>
             </Button>
+            <Button asChild size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
+              <a
+                href="http://eps.eshiksa.net/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Payment Receipt Download
+              </a>
+            </Button>
+          </div>
+
+          <div className="mt-5 flex max-w-2xl items-start gap-3 rounded-lg border border-border bg-secondary/60 p-4">
+            <Info className="mt-0.5 h-5 w-5 shrink-0 text-muted-foreground" aria-hidden="true" />
+            <div className="text-sm text-muted-foreground">
+              <p className="font-medium text-foreground">Login Instructions:</p>
+              <p className="mt-1">
+                Username: Your ID Number (format: NA/2024-YourID)
+                <br />
+                Password: 12345
+                <br />
+                Enter the captcha as shown, then navigate to Transaction Details to download your
+                receipt.
+              </p>
+            </div>
           </div>
         </div>
       </section>
