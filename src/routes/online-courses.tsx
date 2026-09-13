@@ -13,6 +13,7 @@ import {
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { PLATFORM_GROUPS, TOTAL_COURSES, type OnlineCourse } from "@/data/online-courses";
 import { cn } from "@/lib/utils";
+import { ExternalLink } from "lucide-react";
 
 export const Route = createFileRoute("/online-courses")({
   head: () => ({
@@ -41,6 +42,27 @@ function display(value: string | undefined | null) {
   return v === "" || v === "-" ? "—" : v;
 }
 
+function RegisterButton({ course, variant = "default" }: { course: OnlineCourse; variant?: "default" | "block" }) {
+  const url = course.platform_register_url || "#";
+  const helper = `You will be redirected to the official ${course.platform} website to register for this course.`;
+  return (
+    <a
+      href={url}
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label={`Register for ${course.title} on ${course.platform}`}
+      title={helper}
+      className={cn(
+        "inline-flex items-center justify-center gap-1.5 rounded-md bg-primary px-3 py-1.5 text-xs font-bold uppercase tracking-wide text-primary-foreground shadow-soft transition-all hover:scale-[1.03] hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2",
+        variant === "block" && "w-full py-2.5",
+      )}
+    >
+      <ExternalLink className="h-3.5 w-3.5" aria-hidden="true" />
+      Register
+    </a>
+  );
+}
+
 function CourseRow({ course }: { course: OnlineCourse }) {
   return (
     <TableRow>
@@ -54,6 +76,9 @@ function CourseRow({ course }: { course: OnlineCourse }) {
       <TableCell className="whitespace-nowrap">{display(course.exam_details)}</TableCell>
       <TableCell className="whitespace-nowrap">{display(course.certificate_shows_credit)}</TableCell>
       <TableCell className="text-center tabular-nums">{display(course.ncrf_equivalency)}</TableCell>
+      <TableCell className="whitespace-nowrap">
+        <RegisterButton course={course} />
+      </TableCell>
     </TableRow>
   );
 }
@@ -81,6 +106,7 @@ function CourseCard({ course }: { course: OnlineCourse }) {
           </div>
         ))}
       </dl>
+      <RegisterButton course={course} variant="block" />
     </div>
   );
 }
@@ -228,6 +254,7 @@ function OnlineCoursesPage() {
                         <TableHead>Exam Details</TableHead>
                         <TableHead>Credit Info on Certificate</TableHead>
                         <TableHead className="text-center">NCrF Credit Equivalency</TableHead>
+                        <TableHead className="text-center">Register</TableHead>
                       </TableRow>
                     </TableHeader>
                     <TableBody>

@@ -12,6 +12,7 @@ export interface OnlineCourse {
   exam_details: string;
   certificate_shows_credit: string;
   ncrf_equivalency: string;
+  platform_register_url?: string;
 }
 
 export interface PlatformGroup {

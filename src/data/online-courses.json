@@ -11,7 +11,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://alison.com/"
   }
  ],
  "ANGRAU ODLC": [
@@ -26,7 +27,8 @@
    "cost": "500",
    "exam_details": "online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://angrau.ac.in/"
   }
  ],
  "ASCI": [
@@ -41,7 +43,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.asci.org.in/"
   },
   {
    "sno": 4,
@@ -54,7 +57,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.asci.org.in/"
   },
   {
    "sno": 5,
@@ -67,7 +71,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.asci.org.in/"
   },
   {
    "sno": 6,
@@ -80,7 +85,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.asci.org.in/"
   },
   {
    "sno": 7,
@@ -93,7 +99,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.asci.org.in/"
   },
   {
    "sno": 8,
@@ -106,7 +113,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.asci.org.in/"
   },
   {
    "sno": 9,
@@ -119,7 +127,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.asci.org.in/"
   },
   {
    "sno": 10,
@@ -132,7 +141,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.asci.org.in/"
   },
   {
    "sno": 11,
@@ -145,7 +155,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.asci.org.in/"
   },
   {
    "sno": 12,
@@ -158,7 +169,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.asci.org.in/"
   },
   {
    "sno": 13,
@@ -171,7 +183,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.asci.org.in/"
   },
   {
    "sno": 14,
@@ -184,7 +197,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.asci.org.in/"
   },
   {
    "sno": 15,
@@ -197,7 +211,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.asci.org.in/"
   }
  ],
  "CABI": [
@@ -212,7 +227,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.cabi.org/training/cabi-academy/"
   },
   {
    "sno": 17,
@@ -225,7 +241,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.cabi.org/training/cabi-academy/"
   },
   {
    "sno": 18,
@@ -238,7 +255,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.cabi.org/training/cabi-academy/"
   },
   {
    "sno": 19,
@@ -251,7 +269,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.cabi.org/training/cabi-academy/"
   },
   {
    "sno": 20,
@@ -264,7 +283,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.cabi.org/training/cabi-academy/"
   }
  ],
  "Cambridge university": [
@@ -279,7 +299,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://www.cambridge.org/"
   }
  ],
  "Cornell University": [
@@ -294,7 +315,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "Not specified",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.cornell.edu/"
   }
  ],
  "Coursera": [
@@ -309,7 +331,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 24,
@@ -322,7 +345,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 25,
@@ -335,7 +359,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 26,
@@ -348,7 +373,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 27,
@@ -361,7 +387,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 28,
@@ -374,7 +401,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 29,
@@ -387,7 +415,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 30,
@@ -400,7 +429,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 31,
@@ -413,7 +443,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 32,
@@ -426,7 +457,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 33,
@@ -439,7 +471,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 34,
@@ -452,7 +485,8 @@
    "cost": "Paid",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 35,
@@ -465,7 +499,8 @@
    "cost": "Paid",
    "exam_details": "online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 36,
@@ -478,7 +513,8 @@
    "cost": "Paid",
    "exam_details": "online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 37,
@@ -491,7 +527,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 38,
@@ -504,7 +541,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 39,
@@ -517,7 +555,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 40,
@@ -530,7 +569,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 41,
@@ -543,7 +583,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "5"
+   "ncrf_equivalency": "5",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 42,
@@ -556,7 +597,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 43,
@@ -569,7 +611,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "5"
+   "ncrf_equivalency": "5",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 44,
@@ -582,7 +625,8 @@
    "cost": "Paid",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 45,
@@ -595,7 +639,8 @@
    "cost": "Paid certificate",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 46,
@@ -608,7 +653,8 @@
    "cost": "Paid certificate",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 47,
@@ -621,7 +667,8 @@
    "cost": "Paid certificate",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 48,
@@ -634,7 +681,8 @@
    "cost": "Paid certificate",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 49,
@@ -647,7 +695,8 @@
    "cost": "Paid certificate",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "5"
+   "ncrf_equivalency": "5",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 50,
@@ -660,7 +709,8 @@
    "cost": "Paid certificate",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 51,
@@ -673,7 +723,8 @@
    "cost": "Paid certificate",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 52,
@@ -686,7 +737,8 @@
    "cost": "Paid certificate",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 53,
@@ -699,7 +751,8 @@
    "cost": "Paid certificate",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 54,
@@ -712,7 +765,8 @@
    "cost": "Paid certificate",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 55,
@@ -725,7 +779,8 @@
    "cost": "Paid certificate",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 56,
@@ -738,7 +793,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 57,
@@ -751,7 +807,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 58,
@@ -764,7 +821,8 @@
    "cost": "Free registration",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": ""
+   "ncrf_equivalency": "",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 59,
@@ -777,7 +835,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 60,
@@ -790,7 +849,8 @@
    "cost": "1906",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 61,
@@ -803,7 +863,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 62,
@@ -816,7 +877,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 63,
@@ -829,7 +891,8 @@
    "cost": "Free",
    "exam_details": "Online graded assignments / quizzes",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 64,
@@ -842,7 +905,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 65,
@@ -855,7 +919,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 66,
@@ -868,7 +933,8 @@
    "cost": "Fee for certifcate",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "-"
+   "ncrf_equivalency": "-",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 67,
@@ -881,7 +947,8 @@
    "cost": "Fee for certifcate",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 68,
@@ -894,7 +961,8 @@
    "cost": "Fee for certifcate",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 69,
@@ -907,7 +975,8 @@
    "cost": "Fee for certifcate",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 70,
@@ -920,7 +989,8 @@
    "cost": "Fee for certifcate",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 71,
@@ -933,7 +1003,8 @@
    "cost": "Free",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 72,
@@ -946,7 +1017,8 @@
    "cost": "free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.coursera.org/"
   }
  ],
  "Coursera/edX": [
@@ -961,7 +1033,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 74,
@@ -974,7 +1047,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 75,
@@ -987,7 +1061,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 76,
@@ -1000,7 +1075,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.coursera.org/"
   },
   {
    "sno": 77,
@@ -1013,7 +1089,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.coursera.org/"
   }
  ],
  "edX": [
@@ -1028,7 +1105,8 @@
    "cost": "Fee for certifcate",
    "exam_details": "Online",
    "certificate_shows_credit": "yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.edx.org/"
   },
   {
    "sno": 79,
@@ -1041,7 +1119,8 @@
    "cost": "",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.edx.org/"
   },
   {
    "sno": 80,
@@ -1054,7 +1133,8 @@
    "cost": "NO",
    "exam_details": "online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.edx.org/"
   },
   {
    "sno": 81,
@@ -1067,7 +1147,8 @@
    "cost": "No",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": ""
+   "ncrf_equivalency": "",
+   "platform_register_url": "https://www.edx.org/"
   },
   {
    "sno": 82,
@@ -1080,7 +1161,8 @@
    "cost": "1200",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.edx.org/"
   },
   {
    "sno": 83,
@@ -1093,7 +1175,8 @@
    "cost": "1500",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.edx.org/"
   },
   {
    "sno": 84,
@@ -1106,7 +1189,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://www.edx.org/"
   },
   {
    "sno": 85,
@@ -1119,7 +1203,8 @@
    "cost": "21 USD",
    "exam_details": "online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.edx.org/"
   },
   {
    "sno": 86,
@@ -1132,7 +1217,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "7"
+   "ncrf_equivalency": "7",
+   "platform_register_url": "https://www.edx.org/"
   },
   {
    "sno": 87,
@@ -1145,7 +1231,8 @@
    "cost": "",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "5"
+   "ncrf_equivalency": "5",
+   "platform_register_url": "https://www.edx.org/"
   },
   {
    "sno": 88,
@@ -1158,7 +1245,8 @@
    "cost": "",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.edx.org/"
   },
   {
    "sno": 89,
@@ -1171,7 +1259,8 @@
    "cost": "126.5 USD",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://www.edx.org/"
   }
  ],
  "EFLU, Hyderabad": [
@@ -1186,7 +1275,8 @@
    "cost": "The exam is optional for a fee of Rs 1000/-",
    "exam_details": "Internal Assessment & Proctored Exam",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://www.efluniversity.ac.in/"
   },
   {
    "sno": 91,
@@ -1199,7 +1289,8 @@
    "cost": "-",
    "exam_details": "Internal Assessment & Proctored Exam",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "5"
+   "ncrf_equivalency": "5",
+   "platform_register_url": "https://www.efluniversity.ac.in/"
   }
  ],
  "Elevify": [
@@ -1214,7 +1305,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "10"
+   "ncrf_equivalency": "10",
+   "platform_register_url": "https://elevify.com/"
   }
  ],
  "FAO e-Learning Academy": [
@@ -1229,7 +1321,8 @@
    "cost": "Free",
    "exam_details": "Online quiz / final assessment",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://elearning.fao.org/"
   },
   {
    "sno": 94,
@@ -1242,7 +1335,8 @@
    "cost": "Free",
    "exam_details": "Online quiz / final assessment",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://elearning.fao.org/"
   }
  ],
  "FutureLearn": [
@@ -1257,7 +1351,8 @@
    "cost": "1100",
    "exam_details": "",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "5"
+   "ncrf_equivalency": "5",
+   "platform_register_url": "https://www.futurelearn.com/"
   },
   {
    "sno": 96,
@@ -1270,7 +1365,8 @@
    "cost": "1100",
    "exam_details": "",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "6"
+   "ncrf_equivalency": "6",
+   "platform_register_url": "https://www.futurelearn.com/"
   },
   {
    "sno": 97,
@@ -1283,7 +1379,8 @@
    "cost": "1600",
    "exam_details": "",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "9"
+   "ncrf_equivalency": "9",
+   "platform_register_url": "https://www.futurelearn.com/"
   },
   {
    "sno": 98,
@@ -1296,7 +1393,8 @@
    "cost": "Free",
    "exam_details": "",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.futurelearn.com/"
   },
   {
    "sno": 99,
@@ -1309,7 +1407,8 @@
    "cost": "Free",
    "exam_details": "certificate",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.futurelearn.com/"
   },
   {
    "sno": 100,
@@ -1322,7 +1421,8 @@
    "cost": "Free",
    "exam_details": "certificate",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.futurelearn.com/"
   },
   {
    "sno": 101,
@@ -1335,7 +1435,8 @@
    "cost": "Free",
    "exam_details": "certificate",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.futurelearn.com/"
   },
   {
    "sno": 102,
@@ -1348,7 +1449,8 @@
    "cost": "Free",
    "exam_details": "Weekly tests",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.futurelearn.com/"
   }
  ],
  "ICAR": [
@@ -1363,7 +1465,8 @@
    "cost": "Free",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": ""
+   "ncrf_equivalency": "",
+   "platform_register_url": "https://icar.org.in/"
   },
   {
    "sno": 104,
@@ -1376,7 +1479,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://icar.org.in/"
   },
   {
    "sno": 105,
@@ -1389,7 +1493,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://icar.org.in/"
   },
   {
    "sno": 106,
@@ -1402,7 +1507,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://icar.org.in/"
   },
   {
    "sno": 107,
@@ -1415,7 +1521,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://icar.org.in/"
   },
   {
    "sno": 108,
@@ -1428,7 +1535,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://icar.org.in/"
   }
  ],
  "ICAR-DWR": [
@@ -1443,7 +1551,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://dwr.icar.gov.in/"
   }
  ],
  "ICAR-ISA": [
@@ -1458,7 +1567,8 @@
    "cost": "2500",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://icar-isa.org/"
   }
  ],
  "ICAR-NAARM": [
@@ -1473,7 +1583,8 @@
    "cost": "1800",
    "exam_details": "Continuous assessment",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://naarm.org.in/"
   }
  ],
  "IGNOU": [
@@ -1488,7 +1599,8 @@
    "cost": "Online, the certification exam fee needs to be paid",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://www.ignou.ac.in/"
   },
   {
    "sno": 113,
@@ -1501,7 +1613,8 @@
    "cost": "-",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://www.ignou.ac.in/"
   }
  ],
  "K-State Microcredentials": [
@@ -1516,7 +1629,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://www.k-state.edu/onlinelearning/microcredentials/"
   }
  ],
  "MOOC": [
@@ -1531,7 +1645,8 @@
    "cost": "Free",
    "exam_details": "online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   }
  ],
  "Mount Carmel College": [
@@ -1546,7 +1661,8 @@
    "cost": "100",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "7"
+   "ncrf_equivalency": "7",
+   "platform_register_url": "https://mccblr.edu.in/"
   }
  ],
  "NAARM": [
@@ -1561,7 +1677,8 @@
    "cost": "499",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://naarm.org.in/"
   },
   {
    "sno": 118,
@@ -1574,7 +1691,8 @@
    "cost": "2360",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://naarm.org.in/"
   },
   {
    "sno": 119,
@@ -1587,7 +1705,8 @@
    "cost": "Free",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://naarm.org.in/"
   },
   {
    "sno": 120,
@@ -1600,7 +1719,8 @@
    "cost": "Free",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://naarm.org.in/"
   },
   {
    "sno": 121,
@@ -1613,7 +1733,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://naarm.org.in/"
   },
   {
    "sno": 122,
@@ -1626,7 +1747,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://naarm.org.in/"
   },
   {
    "sno": 123,
@@ -1639,7 +1761,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://naarm.org.in/"
   },
   {
    "sno": 124,
@@ -1652,7 +1775,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://naarm.org.in/"
   },
   {
    "sno": 125,
@@ -1665,7 +1789,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://naarm.org.in/"
   },
   {
    "sno": 126,
@@ -1678,7 +1803,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://naarm.org.in/"
   },
   {
    "sno": 127,
@@ -1691,7 +1817,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://naarm.org.in/"
   },
   {
    "sno": 128,
@@ -1704,7 +1831,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://naarm.org.in/"
   }
  ],
  "NIPHM": [
@@ -1719,7 +1847,8 @@
    "cost": "free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://niphm.gov.in/"
   },
   {
    "sno": 130,
@@ -1732,7 +1861,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://niphm.gov.in/"
   }
  ],
  "North Carolina State University": [
@@ -1747,7 +1877,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.ncsu.edu/"
   }
  ],
  "NPTEL": [
@@ -1762,7 +1893,8 @@
    "cost": "1000",
    "exam_details": "Offline exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 133,
@@ -1775,7 +1907,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 134,
@@ -1788,7 +1921,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 135,
@@ -1801,7 +1935,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 136,
@@ -1814,7 +1949,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 137,
@@ -1827,7 +1963,8 @@
    "cost": "1000",
    "exam_details": "75% of Exam score & 25% Assignment score",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 138,
@@ -1840,7 +1977,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 139,
@@ -1853,7 +1991,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 140,
@@ -1866,7 +2005,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 141,
@@ -1879,7 +2019,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 142,
@@ -1892,7 +2033,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 143,
@@ -1905,7 +2047,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 144,
@@ -1918,7 +2061,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 145,
@@ -1931,7 +2075,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 146,
@@ -1944,7 +2089,8 @@
    "cost": "1000",
    "exam_details": "Online & Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 147,
@@ -1957,7 +2103,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 148,
@@ -1970,7 +2117,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 149,
@@ -1983,7 +2131,8 @@
    "cost": "1000",
    "exam_details": "Online & In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 150,
@@ -1996,7 +2145,8 @@
    "cost": "1000",
    "exam_details": "Offline exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 151,
@@ -2009,7 +2159,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 152,
@@ -2022,7 +2173,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 153,
@@ -2035,7 +2187,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 154,
@@ -2048,7 +2201,8 @@
    "cost": "1000",
    "exam_details": "Onine",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 155,
@@ -2061,7 +2215,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 156,
@@ -2074,7 +2229,8 @@
    "cost": "1000",
    "exam_details": "Proctored Exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 157,
@@ -2087,7 +2243,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 158,
@@ -2100,7 +2257,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 159,
@@ -2113,7 +2271,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 160,
@@ -2126,7 +2285,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 161,
@@ -2139,7 +2299,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 162,
@@ -2152,7 +2313,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 163,
@@ -2165,7 +2327,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 164,
@@ -2178,7 +2341,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 165,
@@ -2191,7 +2355,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 166,
@@ -2204,7 +2369,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 167,
@@ -2217,7 +2383,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 168,
@@ -2230,7 +2397,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 169,
@@ -2243,7 +2411,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 170,
@@ -2256,7 +2425,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 171,
@@ -2269,7 +2439,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 172,
@@ -2282,7 +2453,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 173,
@@ -2295,7 +2467,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 174,
@@ -2308,7 +2481,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 175,
@@ -2321,7 +2495,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 176,
@@ -2334,7 +2509,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 177,
@@ -2347,7 +2523,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 178,
@@ -2360,7 +2537,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 179,
@@ -2373,7 +2551,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 180,
@@ -2386,7 +2565,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 181,
@@ -2399,7 +2579,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 182,
@@ -2412,7 +2593,8 @@
    "cost": "1000",
    "exam_details": "Proctored Exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 183,
@@ -2425,7 +2607,8 @@
    "cost": "1000",
    "exam_details": "Proctored Exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 184,
@@ -2438,7 +2621,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 185,
@@ -2451,7 +2635,8 @@
    "cost": "1000",
    "exam_details": "Offline exam and assignments",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 186,
@@ -2464,7 +2649,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 187,
@@ -2477,7 +2663,8 @@
    "cost": "1000",
    "exam_details": "Proctored Exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 188,
@@ -2490,7 +2677,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 189,
@@ -2503,7 +2691,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 190,
@@ -2516,7 +2705,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 191,
@@ -2529,7 +2719,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 192,
@@ -2542,7 +2733,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 193,
@@ -2555,7 +2747,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 194,
@@ -2568,7 +2761,8 @@
    "cost": "1000",
    "exam_details": "Offline proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 195,
@@ -2581,7 +2775,8 @@
    "cost": "1000",
    "exam_details": "Offline exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 196,
@@ -2594,7 +2789,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 197,
@@ -2607,7 +2803,8 @@
    "cost": "1000",
    "exam_details": "Proctored exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   }
  ],
  "Ohio State University": [
@@ -2622,7 +2819,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.osu.edu/"
   }
  ],
  "Shiksha": [
@@ -2637,7 +2835,8 @@
    "cost": "Free",
    "exam_details": "",
    "certificate_shows_credit": "",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.shiksha.com/online-courses"
   }
  ],
  "Skill India": [
@@ -2652,7 +2851,8 @@
    "cost": "900",
    "exam_details": "self pace assessment",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://www.skillindiadigital.gov.in/"
   }
  ],
  "SWAYAM": [
@@ -2667,7 +2867,8 @@
    "cost": "1000",
    "exam_details": "Offline",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 215,
@@ -2680,7 +2881,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 216,
@@ -2693,7 +2895,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 217,
@@ -2706,7 +2909,8 @@
    "cost": "1000",
    "exam_details": "Onlinne",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 218,
@@ -2719,7 +2923,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "6"
+   "ncrf_equivalency": "6",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 219,
@@ -2732,7 +2937,8 @@
    "cost": "1000",
    "exam_details": "In person",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 220,
@@ -2745,7 +2951,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 221,
@@ -2758,7 +2965,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 222,
@@ -2771,7 +2979,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 223,
@@ -2784,7 +2993,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 224,
@@ -2797,7 +3007,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 225,
@@ -2810,7 +3021,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 226,
@@ -2823,7 +3035,8 @@
    "cost": "1,000",
    "exam_details": "In person",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 227,
@@ -2836,7 +3049,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 228,
@@ -2849,7 +3063,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 229,
@@ -2862,7 +3077,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 230,
@@ -2875,7 +3091,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 231,
@@ -2888,7 +3105,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 232,
@@ -2901,7 +3119,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 233,
@@ -2914,7 +3133,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 234,
@@ -2927,7 +3147,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 235,
@@ -2940,7 +3161,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 236,
@@ -2953,7 +3175,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 237,
@@ -2966,7 +3189,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 238,
@@ -2979,7 +3203,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 239,
@@ -2992,7 +3217,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 240,
@@ -3005,7 +3231,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 241,
@@ -3018,7 +3245,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 242,
@@ -3031,7 +3259,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 243,
@@ -3044,7 +3273,8 @@
    "cost": "FEE",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 244,
@@ -3057,7 +3287,8 @@
    "cost": "FEE",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 245,
@@ -3070,7 +3301,8 @@
    "cost": "Free",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 246,
@@ -3083,7 +3315,8 @@
    "cost": "Free",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 247,
@@ -3096,7 +3329,8 @@
    "cost": "Free",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 248,
@@ -3109,7 +3343,8 @@
    "cost": "Not mentioned",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 249,
@@ -3122,7 +3357,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 250,
@@ -3135,7 +3371,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 251,
@@ -3148,7 +3385,8 @@
    "cost": "Free",
    "exam_details": "Offline",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 252,
@@ -3161,7 +3399,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 253,
@@ -3174,7 +3413,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 254,
@@ -3187,7 +3427,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 255,
@@ -3200,7 +3441,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 256,
@@ -3213,7 +3455,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 257,
@@ -3226,7 +3469,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 258,
@@ -3239,7 +3483,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 259,
@@ -3252,7 +3497,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 260,
@@ -3265,7 +3511,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 261,
@@ -3278,7 +3525,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 262,
@@ -3291,7 +3539,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 263,
@@ -3304,7 +3553,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 264,
@@ -3317,7 +3567,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 265,
@@ -3330,7 +3581,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 266,
@@ -3343,7 +3595,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 267,
@@ -3356,7 +3609,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 268,
@@ -3369,7 +3623,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 269,
@@ -3382,7 +3637,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "6"
+   "ncrf_equivalency": "6",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 270,
@@ -3395,7 +3651,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 271,
@@ -3408,7 +3665,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 272,
@@ -3421,7 +3679,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 273,
@@ -3434,7 +3693,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 274,
@@ -3447,7 +3707,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 275,
@@ -3460,7 +3721,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 276,
@@ -3473,7 +3735,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 277,
@@ -3486,7 +3749,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 278,
@@ -3499,7 +3763,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 279,
@@ -3512,7 +3777,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 280,
@@ -3525,7 +3791,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 281,
@@ -3538,7 +3805,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 282,
@@ -3551,7 +3819,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 283,
@@ -3564,7 +3833,8 @@
    "cost": "100",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 284,
@@ -3577,7 +3847,8 @@
    "cost": "750",
    "exam_details": "70% exam + 30% internal",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 285,
@@ -3590,7 +3861,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 286,
@@ -3603,7 +3875,8 @@
    "cost": "750",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 287,
@@ -3616,7 +3889,8 @@
    "cost": "750",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 288,
@@ -3629,7 +3903,8 @@
    "cost": "750",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 289,
@@ -3642,7 +3917,8 @@
    "cost": "750",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 290,
@@ -3655,7 +3931,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 291,
@@ -3668,7 +3945,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 292,
@@ -3681,7 +3959,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 293,
@@ -3694,7 +3973,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 294,
@@ -3707,7 +3987,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 295,
@@ -3720,7 +4001,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 296,
@@ -3733,7 +4015,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 297,
@@ -3746,7 +4029,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 298,
@@ -3759,7 +4043,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 299,
@@ -3772,7 +4057,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 300,
@@ -3785,7 +4071,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 301,
@@ -3798,7 +4085,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 302,
@@ -3811,7 +4099,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 303,
@@ -3824,7 +4113,8 @@
    "cost": "750",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 304,
@@ -3837,7 +4127,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 305,
@@ -3850,7 +4141,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 306,
@@ -3863,7 +4155,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 307,
@@ -3876,7 +4169,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 308,
@@ -3889,7 +4183,8 @@
    "cost": "1000",
    "exam_details": "Online Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 309,
@@ -3902,7 +4197,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 310,
@@ -3915,7 +4211,8 @@
    "cost": "1000",
    "exam_details": "online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 311,
@@ -3928,7 +4225,8 @@
    "cost": "1000",
    "exam_details": "Online Quiz",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 312,
@@ -3941,7 +4239,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 313,
@@ -3954,7 +4253,8 @@
    "cost": "1000",
    "exam_details": "Online Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": ""
+   "ncrf_equivalency": "",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 314,
@@ -3967,7 +4267,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 315,
@@ -3980,7 +4281,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 316,
@@ -3993,7 +4295,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 317,
@@ -4006,7 +4309,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 318,
@@ -4019,7 +4323,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 319,
@@ -4032,7 +4337,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 320,
@@ -4045,7 +4351,8 @@
    "cost": "1000",
    "exam_details": "75% of Exam score & 25% Assignment score",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 321,
@@ -4058,7 +4365,8 @@
    "cost": "1,000",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 322,
@@ -4071,7 +4379,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 323,
@@ -4084,7 +4393,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 324,
@@ -4097,7 +4407,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 325,
@@ -4110,7 +4421,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 326,
@@ -4123,7 +4435,8 @@
    "cost": "1000",
    "exam_details": "75% of Exam score & 25% Assignment score",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 327,
@@ -4136,7 +4449,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 328,
@@ -4149,7 +4463,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 329,
@@ -4162,7 +4477,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 330,
@@ -4175,7 +4491,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 331,
@@ -4188,7 +4505,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 332,
@@ -4201,7 +4519,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 333,
@@ -4214,7 +4533,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 334,
@@ -4227,7 +4547,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 335,
@@ -4240,7 +4561,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 336,
@@ -4253,7 +4575,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 337,
@@ -4266,7 +4589,8 @@
    "cost": "1000",
    "exam_details": "75% of Exam score & 25% Assignment score",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 338,
@@ -4279,7 +4603,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 339,
@@ -4292,7 +4617,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 340,
@@ -4305,7 +4631,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "5"
+   "ncrf_equivalency": "5",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 341,
@@ -4318,7 +4645,8 @@
    "cost": "1000",
    "exam_details": "\\Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 342,
@@ -4331,7 +4659,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 343,
@@ -4344,7 +4673,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "6"
+   "ncrf_equivalency": "6",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 344,
@@ -4357,7 +4687,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 345,
@@ -4370,7 +4701,8 @@
    "cost": "1000",
    "exam_details": "Online / Proctored Exam",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 346,
@@ -4383,7 +4715,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 347,
@@ -4396,7 +4729,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 348,
@@ -4409,7 +4743,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 349,
@@ -4422,7 +4757,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 350,
@@ -4435,7 +4771,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 351,
@@ -4448,7 +4785,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 352,
@@ -4461,7 +4799,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 353,
@@ -4474,7 +4813,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 354,
@@ -4487,7 +4827,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 355,
@@ -4500,7 +4841,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 356,
@@ -4513,7 +4855,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 357,
@@ -4526,7 +4869,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 358,
@@ -4539,7 +4883,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 359,
@@ -4552,7 +4897,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 360,
@@ -4565,7 +4911,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 361,
@@ -4578,7 +4925,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": ""
+   "ncrf_equivalency": "",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 362,
@@ -4591,7 +4939,8 @@
    "cost": "1000",
    "exam_details": "Offline",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 363,
@@ -4604,7 +4953,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 364,
@@ -4617,7 +4967,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 365,
@@ -4630,7 +4981,8 @@
    "cost": "1000",
    "exam_details": "75% of Exam score & 25% Assignment score",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 366,
@@ -4643,7 +4995,8 @@
    "cost": "1000",
    "exam_details": "75% of Exam score & 25% Assignment score",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 367,
@@ -4656,7 +5009,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 368,
@@ -4669,7 +5023,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 369,
@@ -4682,7 +5037,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 370,
@@ -4695,7 +5051,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 371,
@@ -4708,7 +5065,8 @@
    "cost": "1000",
    "exam_details": "75% of Exam score & 25% Assignment score",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 372,
@@ -4721,7 +5079,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "6"
+   "ncrf_equivalency": "6",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 373,
@@ -4734,7 +5093,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 374,
@@ -4747,7 +5107,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 375,
@@ -4760,7 +5121,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 376,
@@ -4773,7 +5135,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 377,
@@ -4786,7 +5149,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 378,
@@ -4799,7 +5163,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 379,
@@ -4812,7 +5177,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 380,
@@ -4825,7 +5191,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 381,
@@ -4838,7 +5205,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 382,
@@ -4851,7 +5219,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 383,
@@ -4864,7 +5233,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": ""
+   "ncrf_equivalency": "",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 384,
@@ -4877,7 +5247,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 385,
@@ -4890,7 +5261,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 386,
@@ -4903,7 +5275,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 387,
@@ -4916,7 +5289,8 @@
    "cost": "1000",
    "exam_details": "Online Quiz",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": ""
+   "ncrf_equivalency": "",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 388,
@@ -4929,7 +5303,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "8"
+   "ncrf_equivalency": "8",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 389,
@@ -4942,7 +5317,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 390,
@@ -4955,7 +5331,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 391,
@@ -4968,7 +5345,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 392,
@@ -4981,7 +5359,8 @@
    "cost": "1000",
    "exam_details": "",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "5"
+   "ncrf_equivalency": "5",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 393,
@@ -4994,7 +5373,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 394,
@@ -5007,7 +5387,8 @@
    "cost": "1000",
    "exam_details": "In-person Proctored",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 395,
@@ -5020,7 +5401,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 396,
@@ -5033,7 +5415,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 397,
@@ -5046,7 +5429,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 398,
@@ -5059,7 +5443,8 @@
    "cost": "1,000",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 399,
@@ -5072,7 +5457,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 400,
@@ -5085,7 +5471,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 401,
@@ -5098,7 +5485,8 @@
    "cost": "FREE",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 402,
@@ -5111,7 +5499,8 @@
    "cost": "Free",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 403,
@@ -5124,7 +5513,8 @@
    "cost": "Free",
    "exam_details": "online",
    "certificate_shows_credit": "yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 404,
@@ -5137,7 +5527,8 @@
    "cost": "FREE",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 405,
@@ -5150,7 +5541,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 406,
@@ -5163,7 +5555,8 @@
    "cost": "FREE",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 407,
@@ -5176,7 +5569,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 408,
@@ -5189,7 +5583,8 @@
    "cost": "FREE",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 409,
@@ -5202,7 +5597,8 @@
    "cost": "FREE",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 410,
@@ -5215,7 +5611,8 @@
    "cost": "FREE",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 411,
@@ -5228,7 +5625,8 @@
    "cost": "Free",
    "exam_details": "",
    "certificate_shows_credit": "",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 412,
@@ -5241,7 +5639,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 413,
@@ -5254,7 +5653,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 414,
@@ -5267,7 +5667,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 415,
@@ -5280,7 +5681,8 @@
    "cost": "Free",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 416,
@@ -5293,7 +5695,8 @@
    "cost": "Free",
    "exam_details": "online",
    "certificate_shows_credit": "yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 417,
@@ -5306,7 +5709,8 @@
    "cost": "FREE",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 418,
@@ -5319,7 +5723,8 @@
    "cost": "FREE",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 419,
@@ -5332,7 +5737,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 420,
@@ -5345,7 +5751,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 421,
@@ -5358,7 +5765,8 @@
    "cost": "Free",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 422,
@@ -5371,7 +5779,8 @@
    "cost": "",
    "exam_details": "QUIZ/ EXAM",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   }
  ],
  "SWAYAM (CEC)": [
@@ -5386,7 +5795,8 @@
    "cost": "1000",
    "exam_details": "Weekly tests + Exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/explorer?ncat=Central%20University"
   },
   {
    "sno": 424,
@@ -5399,7 +5809,8 @@
    "cost": "1000",
    "exam_details": "Assignment + Final exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/explorer?ncat=Central%20University"
   },
   {
    "sno": 425,
@@ -5412,7 +5823,8 @@
    "cost": "1000",
    "exam_details": "Assignment + exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/explorer?ncat=Central%20University"
   },
   {
    "sno": 437,
@@ -5425,7 +5837,8 @@
    "cost": "Proctored exam",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/explorer?ncat=Central%20University"
   },
   {
    "sno": 438,
@@ -5438,7 +5851,8 @@
    "cost": "-",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/explorer?ncat=Central%20University"
   },
   {
    "sno": 439,
@@ -5451,7 +5865,8 @@
    "cost": "-",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/explorer?ncat=Central%20University"
   },
   {
    "sno": 440,
@@ -5464,7 +5879,8 @@
    "cost": "Nominal exam fee",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/explorer?ncat=Central%20University"
   }
  ],
  "SWAYAM - EFLU": [
@@ -5479,7 +5895,8 @@
    "cost": "Normal exam fee",
    "exam_details": "30 per cent for in course Assessment And 70 Percent for end term proctored exam",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   }
  ],
  "SWAYAM - IGNOU": [
@@ -5494,7 +5911,8 @@
    "cost": "Online, the certification exam fee needs to be paid",
    "exam_details": "Tutor Marked Assignment for 100 marks and End Term Assignment",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 468,
@@ -5507,7 +5925,8 @@
    "cost": "Online, the certification exam fee needs to be paid",
    "exam_details": "Online Proctored Exam",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 469,
@@ -5520,7 +5939,8 @@
    "cost": "Online, the certification exam fee needs to be paid",
    "exam_details": "Online & Proctored exam",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "6"
+   "ncrf_equivalency": "6",
+   "platform_register_url": "https://swayam.gov.in/"
   }
  ],
  "SWAYAM - NITTTR": [
@@ -5535,7 +5955,8 @@
    "cost": "Nominal exam fee",
    "exam_details": "Proctored exam in person at one of the designated exam centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 443,
@@ -5548,7 +5969,8 @@
    "cost": "-",
    "exam_details": "Proctored exam in person at one of the designated exam centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 444,
@@ -5561,7 +5983,8 @@
    "cost": "-",
    "exam_details": "Proctored exam in person at one of the designated exam centres",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   }
  ],
  "SWAYAM - Shiksha Online": [
@@ -5576,7 +5999,8 @@
    "cost": "472",
    "exam_details": "online",
    "certificate_shows_credit": "yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 473,
@@ -5589,7 +6013,8 @@
    "cost": "500",
    "exam_details": "online",
    "certificate_shows_credit": "yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 474,
@@ -5602,7 +6027,8 @@
    "cost": "1250",
    "exam_details": "online",
    "certificate_shows_credit": "yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 475,
@@ -5615,7 +6041,8 @@
    "cost": "1740",
    "exam_details": "online",
    "certificate_shows_credit": "yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 476,
@@ -5628,7 +6055,8 @@
    "cost": "2000",
    "exam_details": "online",
    "certificate_shows_credit": "yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayam.gov.in/"
   },
   {
    "sno": 477,
@@ -5641,7 +6069,8 @@
    "cost": "Free",
    "exam_details": "online",
    "certificate_shows_credit": "yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   }
  ],
  "SWAYAM - University of Mysore": [
@@ -5656,7 +6085,8 @@
    "cost": "Normal exam fee",
    "exam_details": "Online Proctored Exam",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://swayam.gov.in/"
   }
  ],
  "SWAYAM / NPTEL": [
@@ -5671,7 +6101,8 @@
    "cost": "1000",
    "exam_details": "75% of Exam score & 25% Assignment score",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 199,
@@ -5684,7 +6115,8 @@
    "cost": "1000",
    "exam_details": "Assignment + exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 200,
@@ -5697,7 +6129,8 @@
    "cost": "1000",
    "exam_details": "Assignment + exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 201,
@@ -5710,7 +6143,8 @@
    "cost": "1000",
    "exam_details": "Assignment + final exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 202,
@@ -5723,7 +6157,8 @@
    "cost": "1000",
    "exam_details": "Weekly assignment + exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 203,
@@ -5736,7 +6171,8 @@
    "cost": "1000",
    "exam_details": "Assignment + exam",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 204,
@@ -5749,7 +6185,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 205,
@@ -5762,7 +6199,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 206,
@@ -5775,7 +6213,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 207,
@@ -5788,7 +6227,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 208,
@@ -5801,7 +6241,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 209,
@@ -5814,7 +6255,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 210,
@@ -5827,7 +6269,8 @@
    "cost": "1000",
    "exam_details": "Online",
    "certificate_shows_credit": "Yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 426,
@@ -5840,7 +6283,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 427,
@@ -5853,7 +6297,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 428,
@@ -5866,7 +6311,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 429,
@@ -5879,7 +6325,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 430,
@@ -5892,7 +6339,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 431,
@@ -5905,7 +6353,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 432,
@@ -5918,7 +6367,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 433,
@@ -5931,7 +6381,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 434,
@@ -5944,7 +6395,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 435,
@@ -5957,7 +6409,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 436,
@@ -5970,7 +6423,8 @@
    "cost": "1000",
    "exam_details": "Proctored / designated exam centre",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 445,
@@ -5983,7 +6437,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 446,
@@ -5996,7 +6451,8 @@
    "cost": "-",
    "exam_details": "Proctored exam in person at one of the designated exam centres",
    "certificate_shows_credit": "No. (Credit points are not mentioned, but the number of weeks are mentioned in the certificate)",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 447,
@@ -6009,7 +6465,8 @@
    "cost": "Nominal exam fee",
    "exam_details": "Online",
    "certificate_shows_credit": "No.",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 448,
@@ -6022,7 +6479,8 @@
    "cost": "Nominal exam fee",
    "exam_details": "Internal Assessment & Proctored Exam",
    "certificate_shows_credit": "No.",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 449,
@@ -6035,7 +6493,8 @@
    "cost": "Nominal exam fee",
    "exam_details": "Internal Assessment & Proctored Exam",
    "certificate_shows_credit": "No.",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 450,
@@ -6048,7 +6507,8 @@
    "cost": "Nominal exam fee",
    "exam_details": "Internal Assessment & Proctored Exam",
    "certificate_shows_credit": "No.",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 451,
@@ -6061,7 +6521,8 @@
    "cost": "The exam is optional for a fee of Rs 1000/-",
    "exam_details": "Proctored exam in person at one of the designated exam centres.",
    "certificate_shows_credit": "No.",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 452,
@@ -6074,7 +6535,8 @@
    "cost": "The exam is optional for a fee of Rs 1000/-",
    "exam_details": "Proctored exam in person at one of the designated exam centres.",
    "certificate_shows_credit": "No.",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 453,
@@ -6087,7 +6549,8 @@
    "cost": "The exam is optional for a fee of Rs 1000/-",
    "exam_details": "Proctored exam in person at one of the designated exam centres.",
    "certificate_shows_credit": "No.",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 454,
@@ -6100,7 +6563,8 @@
    "cost": "Nominal exam fee",
    "exam_details": "Proctored exam in person at one of the designated exam centres.",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 455,
@@ -6113,7 +6577,8 @@
    "cost": "Nominal exam fee",
    "exam_details": "Internal Assessment & Proctored Exam",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 456,
@@ -6126,7 +6591,8 @@
    "cost": "Nominal exam fee",
    "exam_details": "Internal Assessment & Proctored Exam",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 457,
@@ -6139,7 +6605,8 @@
    "cost": "Nominal exam fee",
    "exam_details": "Internal Assessment & Proctored Exam",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 458,
@@ -6152,7 +6619,8 @@
    "cost": "Nominal exam fee",
    "exam_details": "Internal Assessment & Proctored Exam",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "5"
+   "ncrf_equivalency": "5",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 459,
@@ -6165,7 +6633,8 @@
    "cost": "The exam is optional for a fee of Rs 1000/-",
    "exam_details": "Proctored exam in person at one of the designated exam centres.",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 460,
@@ -6178,7 +6647,8 @@
    "cost": "1000",
    "exam_details": "Exam in Person at any of the designated centres",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 470,
@@ -6191,7 +6661,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://nptel.ac.in/"
   },
   {
    "sno": 471,
@@ -6204,7 +6675,8 @@
    "cost": "Free / Nominal exam fee",
    "exam_details": "Online assessment",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://nptel.ac.in/"
   }
  ],
  "SWAYAM / UGC-MOOC Scheme": [
@@ -6219,7 +6691,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "3"
+   "ncrf_equivalency": "3",
+   "platform_register_url": "https://swayam.gov.in/"
   }
  ],
  "SWAYAM Plus": [
@@ -6234,7 +6707,8 @@
    "cost": "1000",
    "exam_details": "Online Quiz/Peer",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayamplus.gov.in/"
   },
   {
    "sno": 462,
@@ -6247,7 +6721,8 @@
    "cost": "1160",
    "exam_details": "online",
    "certificate_shows_credit": "yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayamplus.gov.in/"
   },
   {
    "sno": 463,
@@ -6260,7 +6735,8 @@
    "cost": "1160",
    "exam_details": "online",
    "certificate_shows_credit": "yes",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://swayamplus.gov.in/"
   },
   {
    "sno": 464,
@@ -6273,7 +6749,8 @@
    "cost": "500-1000",
    "exam_details": "Online Quiz/Peer",
    "certificate_shows_credit": "YES",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://swayamplus.gov.in/"
   }
  ],
  "TNAU": [
@@ -6288,7 +6765,8 @@
    "cost": "3000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://www.tnau.ac.in/"
   },
   {
    "sno": 479,
@@ -6301,7 +6779,8 @@
    "cost": "3000",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://www.tnau.ac.in/"
   }
  ],
  "Udemy": [
@@ -6316,7 +6795,8 @@
    "cost": "499",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.udemy.com/"
   },
   {
    "sno": 481,
@@ -6329,7 +6809,8 @@
    "cost": "599",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.udemy.com/"
   },
   {
    "sno": 482,
@@ -6342,7 +6823,8 @@
    "cost": "599",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "1"
+   "ncrf_equivalency": "1",
+   "platform_register_url": "https://www.udemy.com/"
   }
  ],
  "University of New York": [
@@ -6357,7 +6839,8 @@
    "cost": "free",
    "exam_details": "free",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://www.suny.edu/"
   },
   {
    "sno": 484,
@@ -6370,7 +6853,8 @@
    "cost": "Free",
    "exam_details": "Free",
    "certificate_shows_credit": "NO",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://www.suny.edu/"
   }
  ],
  "UOM, Mysuru": [
@@ -6385,7 +6869,8 @@
    "cost": "-",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "4"
+   "ncrf_equivalency": "4",
+   "platform_register_url": "https://uni-mysore.ac.in/"
   }
  ],
  "World bank group": [
@@ -6400,7 +6885,8 @@
    "cost": "Free",
    "exam_details": "Online",
    "certificate_shows_credit": "No",
-   "ncrf_equivalency": "2"
+   "ncrf_equivalency": "2",
+   "platform_register_url": "https://olc.worldbank.org/"
   }
  ]
 }
