@@ -255,6 +255,7 @@ function OnlineCoursesPage() {
                         <TableHead>Exam Details</TableHead>
                         <TableHead>Credit Info on Certificate</TableHead>
                         <TableHead className="text-center">NCrF Credit Equivalency</TableHead>
+                        <TableHead className="text-center">Register</TableHead>
                       </TableRow>
                     </TableHeader>
                     <TableBody>
