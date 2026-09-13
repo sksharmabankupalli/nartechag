@@ -13,7 +13,6 @@ import {
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { PLATFORM_GROUPS, TOTAL_COURSES, type OnlineCourse } from "@/data/online-courses";
 import { cn } from "@/lib/utils";
-import { Button } from "@/components/ui/button";
 import { ExternalLink } from "lucide-react";
 
 export const Route = createFileRoute("/online-courses")({
