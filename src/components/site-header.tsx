@@ -39,9 +39,6 @@ export function SiteHeader() {
             <span className="mt-1 text-[9px] font-semibold uppercase text-muted-foreground">
               BY SHARMA AND KARTHIKEYA
             </span>
-            <span className="text-[11px] font-medium uppercase tracking-wide text-muted-foreground">
-              B.Sc (Hons) Ag VI Dean Committee
-            </span>
           </span>
         </Link>
 
