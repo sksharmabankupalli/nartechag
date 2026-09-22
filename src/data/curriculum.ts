@@ -111,7 +111,7 @@ export const SEMESTERS: Semester[] = [
       { code: "CPHY 361", name: "Fundamentals of Crop Physiology", credits: "3(2+1)" },
       { code: "ENTO 351", name: "Pest Management in Crops and Stored Grains", credits: "3(2+1)" },
       { code: "PATH 371", name: "Diseases of Field & Horticultural Crops & their Management", credits: "3(2+1)" },
-      { code: "AGRO 301", name: "Crop Improvement (Kharif Crops) - I", credits: "2(1+1)" },
+      { code: "GPBR 311", name: "Crop Improvement (Kharif Crops) - I", credits: "2(1+1)" },
       { code: "AGRO 301", name: "Weed Management", credits: "2(1+1)" },
       { code: "—", name: "Ornamental Crops, MAPs and Landscaping", credits: "2(1+1)" },
       { code: "AGRO 302", name: "Introductory Agroforestry", credits: "2(1+1)" },
