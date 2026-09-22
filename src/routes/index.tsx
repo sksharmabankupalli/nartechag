@@ -212,7 +212,7 @@ function Home() {
                       <TableRow>
                         <TableHead className="w-12">#</TableHead>
                         <TableHead>Course</TableHead>
-                        <TableHead className="w-40 text-right">Credits</TableHead>
+                        {sem.number !== 4 && <TableHead className="w-40 text-right">Credits</TableHead>}
                       </TableRow>
                     </TableHeader>
                     <TableBody>
@@ -220,6 +220,9 @@ function Home() {
                         <TableRow key={course.name}>
                           <TableCell className="text-muted-foreground">{i + 1}</TableCell>
                           <TableCell className="font-medium">
+                            <span className="mr-2 inline-block font-mono text-xs font-semibold text-primary">
+                              [{course.code}]
+                            </span>
                             {course.name}
                             {course.note && (
                               <span className="ml-2 text-xs font-normal text-muted-foreground">
@@ -227,7 +230,9 @@ function Home() {
                               </span>
                             )}
                           </TableCell>
-                          <TableCell className="text-right tabular-nums">{course.credits}</TableCell>
+                          {sem.number !== 4 && (
+                            <TableCell className="text-right tabular-nums">{course.credits}</TableCell>
+                          )}
                         </TableRow>
                       ))}
                     </TableBody>

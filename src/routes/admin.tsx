@@ -266,7 +266,7 @@ function ResourcesManager() {
               <option value="">Select a course</option>
               {(currentSem?.courses ?? []).map((c) => (
                 <option key={c.name} value={c.name}>
-                  {c.name}
+                  [{c.code}] {c.name}
                 </option>
               ))}
             </select>
