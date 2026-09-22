@@ -129,7 +129,7 @@ function SemesterCard({
                   </span>
                 </AccordionTrigger>
                 <AccordionContent>
-                  {course.note === "Non-gradial" ? (
+                  {course.name.startsWith("Deeksharambh") ? (
                     <p className="rounded-lg bg-muted px-4 py-3 text-sm text-muted-foreground">
                       This is a non-gradial induction course — no course resources are attached.
                     </p>
