@@ -121,7 +121,12 @@ function SemesterCard({
             return (
               <AccordionItem key={course.name} value={course.name} className="border-border">
                 <AccordionTrigger className="py-3.5 text-left text-sm font-medium hover:no-underline">
-                  <span className="pr-3">{course.name}</span>
+                  <span className="pr-3">
+                    <span className="mr-2 font-mono text-xs font-semibold text-primary">
+                      [{course.code}]
+                    </span>
+                    {course.name}
+                  </span>
                 </AccordionTrigger>
                 <AccordionContent>
                   {course.note === "Non-gradial" ? (
