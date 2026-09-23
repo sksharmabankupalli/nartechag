@@ -4,3 +4,9 @@
 - [x] Match each verified outline to the correct semester and course
 - [x] Upload the verified PDFs and update Lecture Outlines records
 - [x] Verify every View and Download link, course placement, and website build
+
+## Account signup update
+- [ ] Add unique usernames to account profiles
+- [ ] Update signup to username, email, and password with immediate access
+- [ ] Verify signup and sign-in behavior and build
+- [ ] Add CAPTCHA after site and secret keys are supplied
