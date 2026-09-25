@@ -1,5 +1,8 @@
 # Roadmap
 
+- [x] Add uploaded HORT 281 course material to Semester III Semester Exam Resources
+- [x] Verify HORT 281 View and Download links in the website
+
 - [x] Verify all 8 PDFs by internal course title and code
 - [x] Match each verified outline to the correct semester and course
 - [x] Upload the verified PDFs and update Lecture Outlines records
