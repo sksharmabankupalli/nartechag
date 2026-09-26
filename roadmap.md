@@ -1,5 +1,8 @@
 # Roadmap
 
+- [ ] Add uploaded LSPM 101 PDF to Semester II Semester Exam Resources
+- [ ] Verify LSPM 101 View and Download links; disclose PDF's internal LSPM 201 labeling
+
 - [x] Add uploaded AEC 193 course material to Semester II Semester Exam Resources
 - [x] Verify AEC 193 View and Download links in the website
 
