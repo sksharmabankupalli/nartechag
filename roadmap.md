@@ -1,5 +1,8 @@
 # Roadmap
 
+- [x] Add uploaded AEC 193 course material to Semester II Semester Exam Resources
+- [x] Verify AEC 193 View and Download links in the website
+
 - [x] Add uploaded HORT 281 course material to Semester III Semester Exam Resources
 - [x] Verify HORT 281 View and Download links in the website
 
