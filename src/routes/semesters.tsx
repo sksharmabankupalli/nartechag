@@ -212,13 +212,13 @@ function ResourceRow({ resource }: { resource: Resource }) {
         <FileText className="h-4 w-4 shrink-0 text-primary" aria-hidden="true" />
         <span className="flex-1 truncate">{resource.title}</span>
         <div className="flex shrink-0 items-center gap-1">
-          <Button asChild size="sm" variant="ghost" className="h-7 gap-1 px-2 text-xs">
+          <Button asChild size="sm" className="h-7 gap-1 px-2 text-xs">
             <a href={href} target="_blank" rel="noreferrer">
               <Eye className="h-3.5 w-3.5" aria-hidden="true" />
               View
             </a>
           </Button>
-          <Button asChild size="sm" variant="outline" className="h-7 gap-1 px-2 text-xs">
+          <Button asChild size="sm" className="h-7 gap-1 px-2 text-xs">
             <a href={href} download={fileName}>
               <Download className="h-3.5 w-3.5" aria-hidden="true" />
               Download
