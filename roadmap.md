@@ -1,5 +1,7 @@
 # Roadmap
 
+- [x] Verify uploaded SSAC 122 PDF appears under Semester II Semester Exam Resources with working View and Download links
+
 - [x] Add uploaded LSPM 101 PDF to Semester II Semester Exam Resources
 - [x] Verify LSPM 101 View and Download links; disclose PDF's internal LSPM 201 labeling
 
