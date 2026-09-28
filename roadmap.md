@@ -1,8 +1,8 @@
 # Roadmap
 
-- [ ] Verify uploaded VAC 161 PDF and add it to Semester II Semester Exam Resources
-- [ ] Verify VAC 161 placement and View/Download links
-- [ ] Verify green View and Download buttons across semester course resources
+- [x] Verify uploaded VAC 161 PDF and add it to Semester II Semester Exam Resources
+- [x] Verify VAC 161 placement and View/Download links
+- [x] Verify green View and Download buttons across semester course resources
 
 - [x] Verify uploaded SSAC 122 PDF appears under Semester II Semester Exam Resources with working View and Download links
 
