@@ -1,6 +1,6 @@
 # Roadmap
 
-- [ ] Add SSAC 221 course material to Semester IV Semester Exam Resources
+- [x] Add SSAC 221 course material to Semester IV Semester Exam Resources
 - [ ] Verify SSAC 221 View and Download links
 
 - [x] Verify uploaded AEXT 292 PDF and add it to Semester III Semester Exam Resources
