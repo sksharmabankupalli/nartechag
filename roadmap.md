@@ -1,7 +1,9 @@
 # Roadmap
 
-- [ ] Add uploaded PATH 171 paper to Semester II Fundamentals of Plant Pathology PYQs
-- [ ] Verify PATH 171 PYQ View and Download links
+- [x] Verify uploaded AEXT 292 PDF and add it to Semester III Semester Exam Resources
+- [x] Verify AEXT 292 View and Download links
+- [x] Add uploaded PATH 171 paper to Semester II Fundamentals of Plant Pathology PYQs
+- [x] Verify PATH 171 PYQ View and Download links
 
 - [x] Verify uploaded VAC 161 PDF and add it to Semester II Semester Exam Resources
 - [x] Verify VAC 161 placement and View/Download links
