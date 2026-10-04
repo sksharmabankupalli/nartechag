@@ -1,5 +1,7 @@
 # Roadmap
 
+- [ ] Verify uploaded AEXT 292 PDF and add it to Semester III Semester Exam Resources
+- [ ] Verify AEXT 292 View and Download links
 - [ ] Add uploaded PATH 171 paper to Semester II Fundamentals of Plant Pathology PYQs
 - [ ] Verify PATH 171 PYQ View and Download links
 
