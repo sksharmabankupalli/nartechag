@@ -1,5 +1,8 @@
 # Roadmap
 
+- [x] Add SSAC 221 course material to Semester IV Semester Exam Resources
+- [ ] Verify SSAC 221 View and Download links
+
 - [x] Verify uploaded AEXT 292 PDF and add it to Semester III Semester Exam Resources
 - [x] Verify AEXT 292 View and Download links
 - [x] Add uploaded PATH 171 paper to Semester II Fundamentals of Plant Pathology PYQs
