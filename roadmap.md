@@ -1,7 +1,7 @@
 # Roadmap
 
-- [ ] Verify and add AGRO 201 course material to Semester III Semester Exam Resources
-- [ ] Verify AGRO 201 View and Download links
+- [x] Verify and add AGRO 201 course material to Semester III Semester Exam Resources
+- [x] Verify AGRO 201 View and Download links
 
 - [x] Add SSAC 221 course material to Semester IV Semester Exam Resources
 - [x] Verify SSAC 221 View and Download links
