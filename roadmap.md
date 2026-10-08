@@ -1,5 +1,8 @@
 # Roadmap
 
+- [ ] Add verified PATH 271 PDF to Semester III Semester Exam Resources
+- [ ] Verify PATH 271 View and Download links
+
 - [x] Verify and add AENG 251 course material to Semester IV Semester Exam Resources
 - [x] Verify AENG 251 View and Download links
 
