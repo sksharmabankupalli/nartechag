@@ -1,5 +1,8 @@
 # Roadmap
 
+- [x] Add verified AGRO 204 Water Management PDF to Semester IV Semester Exam Resources
+- [x] Verify AGRO 204 placement and View/Download links
+
 - [x] Reduce the logo author credit to half its current size and verify it
 
 - [x] Add verified PATH 271 PDF to Semester III Semester Exam Resources
