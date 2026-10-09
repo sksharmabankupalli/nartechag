@@ -36,7 +36,7 @@ export function SiteHeader() {
             <span className="font-display text-xl font-semibold text-primary">
               NarTechAg
             </span>
-            <span className="mt-1 font-display text-xl font-semibold uppercase leading-snug text-muted-foreground">
+            <span className="mt-1 font-display text-[10px] font-semibold uppercase leading-snug text-muted-foreground">
               BY SHARMA AND KARTHIKEYA
             </span>
           </span>
