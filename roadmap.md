@@ -1,6 +1,6 @@
 # Roadmap
 
-- [ ] Reduce the logo author credit to half its current size and verify it
+- [x] Reduce the logo author credit to half its current size and verify it
 
 - [x] Add verified PATH 271 PDF to Semester III Semester Exam Resources
 - [x] Verify PATH 271 View and Download links
