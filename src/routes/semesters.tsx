@@ -119,7 +119,7 @@ function SemesterCard({
           {semester.courses.map((course) => {
             const items = resourcesFor(semester.number, course.name);
             return (
-              <AccordionItem key={course.name} value={course.name} className="border-border">
+              <AccordionItem key={course.name} value={course.name} className="rounded-lg border-border px-3 data-[state=open]:bg-accent">
                 <AccordionTrigger className="py-3.5 text-left text-sm font-medium hover:no-underline">
                   <span className="pr-3">
                     <span className="mr-2 font-mono text-xs font-semibold text-primary">
