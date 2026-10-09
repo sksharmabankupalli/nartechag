@@ -1,5 +1,8 @@
 # Roadmap
 
+- [ ] Add verified AGRO 202 Natural Farming PDF to Semester III Semester Exam Resources
+- [ ] Verify AGRO 202 placement and View/Download links
+
 - [x] Add verified AGRO 204 Water Management PDF to Semester IV Semester Exam Resources
 - [x] Verify AGRO 204 placement and View/Download links
 
