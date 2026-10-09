@@ -1,7 +1,7 @@
 # Roadmap
 
-- [ ] Verify and add uploaded GPBR 211 PDF to Semester III Semester Exam Resources
-- [ ] Verify GPBR 211 View and Download links
+- [x] Verify and add uploaded GPBR 211 PDF to Semester III Semester Exam Resources
+- [x] Verify GPBR 211 View and Download links
 
 - [x] Add verified AGRO 202 Natural Farming PDF to Semester III Semester Exam Resources
 - [x] Verify AGRO 202 placement and View/Download links
