@@ -11,6 +11,7 @@ import {
 } from "@/components/ui/accordion";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { PROGRAM_TOTALS, SEMESTERS } from "@/data/curriculum";
+import { useAuth } from "@/hooks/useAuth";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -53,6 +54,7 @@ const HIGHLIGHTS = [
 ];
 
 function Home() {
+  const { user, isAdmin } = useAuth();
   return (
     <PageShell>
       <section className="surface-field border-b border-border">
@@ -69,21 +71,34 @@ function Home() {
             boards. NarTechAg gathers the course structure, semester resources and university updates
             into one calm, organised study hub.
           </p>
-          <div className="mt-8 flex flex-wrap gap-3">
+          <div aria-label="Page and payment options" className="mt-8 flex max-w-2xl flex-col gap-3">
             <Button
               asChild
               size="lg"
-              className="border-0 bg-gradient-to-r from-primary via-leaf to-harvest text-white shadow-lift ring-2 ring-harvest/30 transition-all hover:-translate-y-0.5 hover:shadow-[0_20px_50px_oklch(0.74_0.135_78/0.45)]"
+              className="h-auto min-h-11 w-full whitespace-normal py-3 text-center"
             >
               <Link to="/semesters">Get Course Resources</Link>
             </Button>
-            <Button asChild size="lg" variant="outline">
+            <Button asChild size="lg" className="h-auto min-h-11 w-full whitespace-normal py-3 text-center">
               <Link to="/online-courses">Online Courses</Link>
             </Button>
-            <Button asChild size="lg" variant="outline">
-              <Link to="/updates">See ANGRAU updates</Link>
+            <Button asChild size="lg" className="h-auto min-h-11 w-full whitespace-normal py-3 text-center">
+              <Link to="/updates">ANGRAU Updates</Link>
             </Button>
-            <Button asChild size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
+            <Button asChild size="lg" className="h-auto min-h-11 w-full whitespace-normal py-3 text-center">
+              <Link to="/colleges">Colleges</Link>
+            </Button>
+            {!user && (
+              <Button asChild size="lg" className="h-auto min-h-11 w-full whitespace-normal py-3 text-center">
+                <Link to="/auth">Login / Sign Up</Link>
+              </Button>
+            )}
+            {isAdmin && (
+              <Button asChild size="lg" className="h-auto min-h-11 w-full whitespace-normal py-3 text-center">
+                <Link to="/admin">Admin</Link>
+              </Button>
+            )}
+            <Button asChild size="lg" className="h-auto min-h-11 w-full whitespace-normal py-3 text-center">
               <a
                 href="https://eps.eshiksa.net/DirectFeesv3/NGRanga/"
                 target="_blank"
@@ -92,7 +107,7 @@ function Home() {
                 ANGRAU Students Semester Fee Registration
               </a>
             </Button>
-            <Button asChild size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
+            <Button asChild size="lg" className="h-auto min-h-11 w-full whitespace-normal py-3 text-center">
               <a
                 href="http://eps.eshiksa.net/"
                 target="_blank"
