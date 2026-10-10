@@ -1,5 +1,8 @@
 # Roadmap
 
+- [ ] Verify and add uploaded AGRO 203 PDF to Semester IV Semester Exam Resources
+- [ ] Verify AGRO 203 placement and View/Download links
+
 - [x] Add resource search by course name or code and verify filtering
 - [x] Replace opened-course light-green background with a dark-green border and verify
 
