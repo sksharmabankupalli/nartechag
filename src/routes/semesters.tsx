@@ -1,9 +1,11 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { Download, Eye, FileText } from "lucide-react";
+import { useState } from "react";
+import { Download, Eye, FileText, Search, X } from "lucide-react";
 import { PageShell, PageHeader } from "@/components/page-shell";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
 
 import {
   Accordion,
@@ -47,6 +49,21 @@ type Resource = {
 };
 
 function SemestersPage() {
+  const [search, setSearch] = useState("");
+  const query = search.trim().toLowerCase();
+  const compactQuery = query.replace(/\s+/g, "");
+  const filteredYears = YEARS.map((year) => ({
+    ...year,
+    semesters: year.semesters.map((semester) => ({
+      ...semester,
+      courses: semester.courses.filter((course) =>
+        !query || course.name.toLowerCase().includes(query) ||
+        course.code.toLowerCase().replace(/\s+/g, "").includes(compactQuery),
+      ),
+    })).filter((semester) => !query || semester.courses.length > 0),
+  })).filter((year) => !query || year.semesters.length > 0);
+  const matchCount = filteredYears.reduce((total, year) =>
+    total + year.semesters.reduce((count, semester) => count + semester.courses.length, 0), 0);
   // Resources are uploaded by the site owner through the admin panel and are
   // tagged Year -> Semester -> Course, so they slot straight into these cards.
   const { data: resources = [] } = useQuery({
@@ -73,7 +90,31 @@ function SemestersPage() {
       />
 
       <div className="mx-auto max-w-6xl space-y-10 px-4 py-12 sm:px-6">
-        {YEARS.map((y) => (
+        <div className="space-y-2">
+          <div className="relative">
+            <Search className="pointer-events-none absolute left-3 top-3 h-5 w-5 text-muted-foreground" aria-hidden="true" />
+            <Input
+              type="search"
+              aria-label="Search courses by name or course code"
+              placeholder="Search by course name or code"
+              value={search}
+              onChange={(event) => setSearch(event.target.value)}
+              className="h-11 bg-card pl-10 pr-12"
+            />
+            {search && (
+              <Button variant="ghost" size="icon" aria-label="Clear course search" title="Clear search" onClick={() => setSearch("")} className="absolute right-1 top-1 h-9 w-9">
+                <X className="h-4 w-4" aria-hidden="true" />
+              </Button>
+            )}
+          </div>
+          <p role="status" className="text-sm text-muted-foreground">
+            {query ? `${matchCount} ${matchCount === 1 ? "course" : "courses"} found` : null}
+          </p>
+        </div>
+        {filteredYears.length === 0 && (
+          <p className="py-8 text-center text-muted-foreground">No courses found for “{search.trim()}”.</p>
+        )}
+        {filteredYears.map((y) => (
           <section key={y.year} id={`year-${y.year}`} className="scroll-mt-24">
             <div className="flex items-baseline gap-3">
               <h2 className="text-2xl font-semibold sm:text-3xl">{y.label}</h2>
@@ -119,7 +160,7 @@ function SemesterCard({
           {semester.courses.map((course) => {
             const items = resourcesFor(semester.number, course.name);
             return (
-              <AccordionItem key={course.name} value={course.name} className="rounded-lg border-border px-3 data-[state=open]:bg-accent">
+              <AccordionItem key={course.name} value={course.name} className="rounded-lg border-2 border-transparent px-3 data-[state=open]:border-primary last:data-[state=open]:border-b-2">
                 <AccordionTrigger className="py-3.5 text-left text-sm font-medium hover:no-underline">
                   <span className="pr-3">
                     <span className="mr-2 font-mono text-xs font-semibold text-primary">
