@@ -1,5 +1,7 @@
 # Roadmap
 
+- [ ] Stack Home page navigation and fee/receipt options as green buttons and verify links
+
 - [x] Verify and add uploaded AGRO 203 PDF to Semester IV Semester Exam Resources
 - [x] Verify AGRO 203 placement and View/Download links
 
