@@ -1,7 +1,7 @@
 # Roadmap
 
-- [ ] Add verified MDC 291 Source 1 PDF to Semester III Semester Exam Resources
-- [ ] Verify MDC 291 Source 1 placement and View/Download links
+- [x] Add verified MDC 291 Source 1 PDF to Semester III Semester Exam Resources
+- [x] Verify MDC 291 Source 1 placement and View/Download links
 
 - [x] Verify and add uploaded GPBR 211 PDF to Semester III Semester Exam Resources
 - [x] Verify GPBR 211 View and Download links
