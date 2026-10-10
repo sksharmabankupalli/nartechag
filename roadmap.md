@@ -1,7 +1,7 @@
 # Roadmap
 
-- [ ] Add resource search by course name or code and verify filtering
-- [ ] Replace opened-course light-green background with a dark-green border and verify
+- [x] Add resource search by course name or code and verify filtering
+- [x] Replace opened-course light-green background with a dark-green border and verify
 
 - [x] Add verified MDC 291 Source 1 PDF to Semester III Semester Exam Resources
 - [x] Verify MDC 291 Source 1 placement and View/Download links
