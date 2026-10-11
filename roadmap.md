@@ -1,7 +1,7 @@
 # Roadmap
 
-- [ ] Add verified AEXT 192 PDF to Semester I Semester Exam Resources
-- [ ] Verify AEXT 192 placement and View/Download links
+- [x] Add verified AEXT 192 PDF to Semester I Semester Exam Resources
+- [x] Verify AEXT 192 placement and View/Download links
 
 - [x] Stack Home page navigation and fee/receipt options as green buttons and verify links
 - [x] Verify and add uploaded AECO 241 PDF to Semester IV Semester Exam Resources
