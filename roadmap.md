@@ -1,5 +1,8 @@
 # Roadmap
 
+- [ ] Add verified MDC 100 PDF to Semester I Semester Exam Resources
+- [ ] Verify MDC 100 placement and View/Download links
+
 - [x] Add verified AEXT 192 PDF to Semester I Semester Exam Resources
 - [x] Verify AEXT 192 placement and View/Download links
 
