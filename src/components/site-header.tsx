@@ -25,7 +25,7 @@ export function SiteHeader() {
   const pathname = useRouterState({ select: (s) => s.location.pathname });
 
   return (
-    <header className="sticky top-0 z-50 border-b border-border/70 bg-background/85 backdrop-blur-md">
+    <header className="sticky top-0 z-50 border-b border-border/70 bg-card shadow-soft">
       <div className="mx-auto flex min-h-16 max-w-6xl items-center gap-3 px-4 py-2 sm:px-6">
         {/* Logo area — a real logo image will replace this wordmark later. */}
         <Link to="/" className="flex min-w-0 items-center gap-2" onClick={() => setOpen(false)}>
@@ -33,7 +33,7 @@ export function SiteHeader() {
             <Sprout className="h-5 w-5" aria-hidden="true" />
           </span>
           <span className="flex min-w-0 flex-col leading-none">
-            <span className="font-display text-xl font-semibold text-primary">
+            <span className="font-display text-xl font-bold text-primary">
               NarTechAg
             </span>
             <span className="mt-1 font-display text-[10px] font-semibold uppercase leading-snug text-muted-foreground">
@@ -48,8 +48,8 @@ export function SiteHeader() {
               key={item.to}
               to={item.to}
               className={cn(
-                "rounded-md px-3 py-2 text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground",
-                pathname === item.to && "bg-accent text-accent-foreground",
+                "border-b-2 border-transparent px-3 py-2 text-sm font-medium text-muted-foreground transition-colors hover:text-primary",
+                pathname === item.to && "border-primary text-primary",
               )}
             >
               {item.label}
@@ -60,8 +60,8 @@ export function SiteHeader() {
             <DropdownMenuTrigger asChild>
               <button
                 className={cn(
-                  "flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground",
-                  pathname.startsWith("/semesters") && "bg-accent text-accent-foreground",
+                  "flex items-center gap-1 border-b-2 border-transparent px-3 py-2 text-sm font-medium text-muted-foreground transition-colors hover:text-primary",
+                  pathname.startsWith("/semesters") && "border-primary text-primary",
                 )}
               >
                 Semesters <ChevronDown className="h-4 w-4" aria-hidden="true" />
@@ -118,7 +118,7 @@ export function SiteHeader() {
                 key={item.to}
                 to={item.to}
                 onClick={() => setOpen(false)}
-                className="rounded-md px-3 py-2 text-sm font-medium text-foreground hover:bg-accent"
+                className="rounded-md px-3 py-2 text-sm font-medium text-foreground hover:bg-muted"
               >
                 {item.label}
               </Link>
@@ -132,7 +132,7 @@ export function SiteHeader() {
                 to="/semesters"
                 hash={`year-${y.year}`}
                 onClick={() => setOpen(false)}
-                className="rounded-md px-3 py-2 text-sm text-foreground hover:bg-accent"
+                className="rounded-md px-3 py-2 text-sm text-foreground hover:bg-muted"
               >
                 {y.label}
               </Link>
