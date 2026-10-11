@@ -1,8 +1,8 @@
 # Roadmap
 
 - [x] Stack Home page navigation and fee/receipt options as green buttons and verify links
-- [ ] Verify and add uploaded AECO 241 PDF to Semester IV Semester Exam Resources
-- [ ] Verify AECO 241 placement and View/Download links
+- [x] Verify and add uploaded AECO 241 PDF to Semester IV Semester Exam Resources
+- [x] Verify AECO 241 placement and View/Download links
 
 - [x] Verify and add uploaded AGRO 203 PDF to Semester IV Semester Exam Resources
 - [x] Verify AGRO 203 placement and View/Download links
