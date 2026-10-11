@@ -118,7 +118,7 @@ function Home() {
             </Button>
           </div>
 
-          <div className="mt-5 flex max-w-2xl items-start gap-3 rounded-lg border border-border bg-secondary/60 p-4">
+          <div className="mt-5 flex max-w-2xl items-start gap-3 rounded-lg border border-border bg-muted p-4">
             <Info className="mt-0.5 h-5 w-5 shrink-0 text-muted-foreground" aria-hidden="true" />
             <div className="text-sm text-muted-foreground">
               <p className="font-medium text-foreground">Login Instructions:</p>
@@ -165,19 +165,19 @@ function Home() {
           </div>
 
           <dl className="mt-8 grid gap-4 sm:grid-cols-3">
-            <div className="rounded-xl border border-border bg-secondary/60 p-5">
+            <div className="rounded-xl border border-border bg-muted p-5">
               <dt className="text-sm text-muted-foreground">Core credits (Sem I–VIII)</dt>
               <dd className="mt-1 font-display text-3xl font-semibold text-primary">
                 {PROGRAM_TOTALS.coreCredits}
               </dd>
             </div>
-            <div className="rounded-xl border border-border bg-secondary/60 p-5">
+            <div className="rounded-xl border border-border bg-muted p-5">
               <dt className="text-sm text-muted-foreground">Online course credits</dt>
               <dd className="mt-1 font-display text-3xl font-semibold text-primary">
                 {PROGRAM_TOTALS.onlineCredits}
               </dd>
             </div>
-            <div className="rounded-xl border border-primary/30 bg-accent p-5">
+            <div className="rounded-xl border border-harvest/40 bg-harvest/10 p-5">
               <dt className="text-sm text-accent-foreground/80">Grand total</dt>
               <dd className="mt-1 font-display text-3xl font-semibold text-accent-foreground">
                 {PROGRAM_TOTALS.grandTotal}
