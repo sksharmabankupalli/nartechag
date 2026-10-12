@@ -154,7 +154,7 @@ function OnlineCoursesPage() {
       />
 
       <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6">
-        <div className="flex items-start gap-3 rounded-lg border border-primary/30 bg-accent p-4 text-sm">
+        <div className="flex items-start gap-3 rounded-lg border border-harvest/40 bg-harvest/10 p-4 text-sm">
           <Info className="mt-0.5 h-5 w-5 shrink-0 text-primary" aria-hidden="true" />
           <p className="text-accent-foreground/90">
             The following list of Online Courses has been approved by the Academic Council of ANGRAU
