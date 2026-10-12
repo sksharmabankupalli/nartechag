@@ -1,8 +1,8 @@
 # Roadmap
 
-- [ ] Complete and verify the visual-only global website restyle
-- [ ] Add verified SSAC 121 PDF to Semester I Semester Exam Resources
-- [ ] Verify SSAC 121 placement and View/Download links
+- [x] Complete and verify the visual-only global website restyle
+- [x] Add verified SSAC 121 PDF to Semester I Semester Exam Resources
+- [x] Verify SSAC 121 placement and View/Download links
 
 - [x] Add verified MDC 100 PDF to Semester I Semester Exam Resources
 - [x] Verify MDC 100 placement and View/Download links
