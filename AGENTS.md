@@ -11,3 +11,5 @@
 
 - Filter resource-page course lists locally from the canonical curriculum by name or whitespace-normalized course code; this preserves year/semester placement without additional network requests.
 - Centralize website visual styling in global semantic tokens and shared UI components so all pages stay consistent without changing their content or layout structure.
+- Fetch the university announcement ticker through a public server function and parse HTML with bundled linkedom; use only explicit publication dates, never deadlines, for ordering and NEW badges.
+- Keep university search, category and pagination in route search parameters and render the uploaded calendar in a shared image viewer; this keeps navigation restorable and fallback views complete.

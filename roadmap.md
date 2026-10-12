@@ -1,5 +1,10 @@
 # Roadmap
 
+## University page redesign
+- [ ] Fetch and verify official ANGRAU announcements with search, categories, NEW badges and pagination
+- [ ] Add uploaded 2026 calendar viewer, download and verified key-date timeline
+- [ ] Verify university page controls, fallback and mobile layout; leave other pages unchanged
+
 - [x] Complete and verify the visual-only global website restyle
 - [x] Add verified SSAC 121 PDF to Semester I Semester Exam Resources
 - [x] Verify SSAC 121 placement and View/Download links

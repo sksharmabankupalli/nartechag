@@ -217,3 +217,14 @@
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition-duration: 0s !important; animation-duration: 0s !important; }
 }
+
+/* Scoped university-page viewer and section navigation; other pages are unchanged. */
+.university-section { scroll-margin-top: 9rem; }
+.calendar-viewport { max-height: 42rem; }
+.calendar-image { width: 100%; height: auto; }
+.calendar-zoom-125 .calendar-image { width: 125%; }
+.calendar-zoom-150 .calendar-image { width: 150%; }
+.calendar-zoom-175 .calendar-image { width: 175%; }
+.calendar-zoom-200 .calendar-image { width: 200%; }
+.calendar-zoom-225 .calendar-image { width: 225%; }
+.calendar-zoom-250 .calendar-image { width: 250%; }
