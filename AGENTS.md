@@ -10,3 +10,4 @@
 <!-- LOVABLE:END -->
 
 - Filter resource-page course lists locally from the canonical curriculum by name or whitespace-normalized course code; this preserves year/semester placement without additional network requests.
+- Centralize website visual styling in global semantic tokens and shared UI components so all pages stay consistent without changing their content or layout structure.
