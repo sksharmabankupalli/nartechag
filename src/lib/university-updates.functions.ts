@@ -15,7 +15,7 @@ export const getOfficialUpdates = createServerFn({ method: "GET" }).handler(asyn
     for (const row of Array.from(document.querySelectorAll(".slider-section ul li"))) {
       const title = row.querySelector("span")?.textContent?.replace(/\s+/g, " ").trim();
       const href = row.querySelector("a.blinktext")?.getAttribute("href");
-      if (!title || !href || seen.has(title)) continue;
+      if (!title || !href || title.length < 15 || seen.has(title)) continue;
       const url = new URL(href, "https://angrau.ac.in/");
       if (!["https:", "http:"].includes(url.protocol)) continue;
       seen.add(title);

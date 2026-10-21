@@ -11,9 +11,9 @@ export type UniversityUpdate = {
 
 export function categorizeUpdate(title: string): UpdateCategory {
   if (/result|merit list|rank list/i.test(title)) return "Results";
-  if (/admission|application|registration|counsell|web.?options|agricet/i.test(title)) return "Admissions";
   if (/exam|timetable|time table|academic calendar/i.test(title)) return "Exams";
   if (/convocation|award|event|conference|workshop|anniversary/i.test(title)) return "Events";
+  if (/admission|counsell|web.?options|agricet|registration.*(?:course|student)/i.test(title)) return "Admissions";
   return "Notifications";
 }
 

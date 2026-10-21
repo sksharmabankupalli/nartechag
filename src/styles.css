@@ -112,6 +112,11 @@
   --footer-foreground: var(--primary-foreground);
   --footer-muted: oklch(0.91 0.018 145);
   --footer-border: oklch(1 0 0 / 18%);
+  --announcement-start: oklch(0.97 0.06 95);
+  --announcement-end: oklch(0.99 0.025 90);
+  --announcement-border: oklch(0.88 0.09 90);
+  --announcement-foreground: oklch(0.36 0.06 70);
+  --announcement-gradient: linear-gradient(110deg, var(--announcement-start), var(--announcement-end));
 }
 
 .dark {
@@ -228,3 +233,12 @@
 .calendar-zoom-200 .calendar-image { width: 200%; }
 .calendar-zoom-225 .calendar-image { width: 225%; }
 .calendar-zoom-250 .calendar-image { width: 250%; }
+.resource-announcement {
+  background: var(--announcement-gradient);
+  border-color: var(--announcement-border);
+  color: var(--announcement-foreground);
+}
+@keyframes announcement-fade { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: no-preference) {
+  .resource-announcement { animation: announcement-fade 450ms ease-out both; }
+}
