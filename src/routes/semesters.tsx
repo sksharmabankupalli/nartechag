@@ -156,7 +156,7 @@ function SemesterCard({
   resourcesFor: (semester: number, course: string) => Resource[];
 }) {
   return (
-    <div className="rounded-2xl border border-border bg-card p-6 shadow-soft">
+    <div className="min-w-0 rounded-2xl border border-border bg-card p-6 shadow-soft">
       <div className="flex flex-wrap items-center justify-between gap-2">
         <h3 className="font-display text-xl font-semibold">Semester {semester.roman}</h3>
         <Badge variant={semester.total ? "secondary" : "outline"}>
@@ -264,7 +264,7 @@ function ResourceRow({ resource }: { resource: Resource }) {
     <li className="rounded-md border border-border px-2.5 py-1.5 text-sm">
       <div className="flex items-center gap-2">
         <FileText className="h-4 w-4 shrink-0 text-primary" aria-hidden="true" />
-        <span className="flex-1 truncate">{resource.title}</span>
+        <span className="min-w-0 flex-1 truncate">{resource.title}</span>
         <div className="flex shrink-0 items-center gap-1">
           <Button asChild size="sm" className="h-7 gap-1 px-2 text-xs">
             <a href={href} target="_blank" rel="noreferrer">
