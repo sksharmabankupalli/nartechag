@@ -1,5 +1,10 @@
 # Roadmap
 
+## AECO 341 and resource announcement
+- [ ] Verify uploaded AECO 341 and add to Year 3 Semester VI Semester Exam Resources
+- [ ] Add permanent Resources Update banner above all resource-page content
+- [ ] Verify placement, links and banner on mobile
+
 ## University page redesign
 - [ ] Fetch and verify official ANGRAU announcements with search, categories, NEW badges and pagination
 - [ ] Add uploaded 2026 calendar viewer, download and verified key-date timeline
