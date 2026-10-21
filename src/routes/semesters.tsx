@@ -202,7 +202,9 @@ function SemesterCard({
                     )
                   ) : (
                     <div className="space-y-2.5">
-                      {RESOURCE_CATEGORIES.map((cat) => {
+                      {RESOURCE_CATEGORIES.filter(
+                        (cat) => !(course.code === "STAM 101" && cat.key === "semester_exam"),
+                      ).map((cat) => {
                         const catItems = items.filter(
                           (r) => (r.resource_type ?? "") === cat.key,
                         );
