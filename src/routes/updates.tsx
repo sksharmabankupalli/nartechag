@@ -1,4 +1,4 @@
-import { createFileRoute, Link, useNavigate } from "@tanstack/react-router";
+import { createFileRoute, useNavigate, type SearchSchemaInput } from "@tanstack/react-router";
 import { queryOptions, useSuspenseQuery } from "@tanstack/react-query";
 import { ArrowDown, ArrowUpRight, Search, X, Bell, CalendarDays, ExternalLink } from "lucide-react";
 import { useState } from "react";
@@ -27,7 +27,7 @@ const updatesQuery = queryOptions({
 });
 
 export const Route = createFileRoute("/updates")({
-  validateSearch: (search: Record<string, unknown>) => ({
+  validateSearch: (search: SearchSchemaInput & { q?: string; category?: string; count?: number }) => ({
     q: typeof search.q === "string" ? search.q : "",
     category: UPDATE_CATEGORIES.find((category) => category === search.category) ?? "All",
     count: Math.max(6, Math.min(300, Number(search.count) || 6)),

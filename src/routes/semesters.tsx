@@ -83,6 +83,19 @@ function SemestersPage() {
 
   return (
     <PageShell>
+      <aside aria-label="Resources Update" className="resource-announcement mx-auto mt-6 w-[calc(100%-2rem)] max-w-6xl rounded-xl border p-5 sm:mt-8 sm:p-6">
+        <div className="flex items-start gap-4">
+          <span className="shrink-0 text-2xl" aria-hidden="true">🚧</span>
+          <div className="min-w-0">
+            <h2 className="text-lg font-bold">Resources Update</h2>
+            <ul className="mt-3 list-disc space-y-2 pl-5 text-sm sm:text-base">
+              <li><strong>3rd Year:</strong> Materials are being revised as per the new 6th Deans' syllabus. Live in 2–3 weeks.</li>
+              <li><strong>1st &amp; 2nd Year:</strong> PYQs will be uploaded shortly.</li>
+            </ul>
+            <p className="mt-4 text-xs italic sm:text-sm">Thank you for your patience!</p>
+          </div>
+        </div>
+      </aside>
       <PageHeader
         eyebrow="Study material"
         title="Semesters"
