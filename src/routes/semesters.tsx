@@ -14,7 +14,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 import { RESOURCE_CATEGORIES, YEARS, type Semester } from "@/data/curriculum";
-import { semesterResourceCourses } from "@/data/skill-courses";
+import { isSkillEnhancementCourse, semesterResourceCourses } from "@/data/skill-courses";
 import { supabase } from "@/integrations/supabase/client";
 
 export const Route = createFileRoute("/semesters")({
@@ -166,12 +166,6 @@ function SemesterCard({
         </Badge>
       </div>
 
-      <section aria-label="Skill Enhancement Courses" className="mt-4 border-b border-border pb-4">
-        <Button asChild className="h-auto min-h-10 w-full whitespace-normal text-center">
-          <Link to="/skill-courses">Skill Enhancement Courses</Link>
-        </Button>
-      </section>
-
       {courses.length === 0 ? (
         <p className="mt-5 rounded-lg border border-dashed border-border p-6 text-center text-sm text-muted-foreground">
           Content coming soon — courses and resources for this semester will be added shortly.
@@ -191,7 +185,11 @@ function SemesterCard({
                   </span>
                 </AccordionTrigger>
                 <AccordionContent>
-                  {course.name.startsWith("Deeksharambh") ? (
+                  {isSkillEnhancementCourse(course) ? (
+                    <Button asChild className="h-auto min-h-10 w-full whitespace-normal text-center">
+                      <Link to="/skill-courses">SEC SOURCES</Link>
+                    </Button>
+                  ) : course.name.startsWith("Deeksharambh") ? (
                     <p className="rounded-lg bg-muted px-4 py-3 text-sm text-muted-foreground">
                       This is a non-gradial induction course — no course resources are attached.
                     </p>

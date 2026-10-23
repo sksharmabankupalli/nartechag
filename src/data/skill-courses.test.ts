@@ -17,11 +17,19 @@ test("all existing skill courses are collected on the SEC page", () => {
   ]);
 });
 
-test("every semester excludes SEC courses from internal resource options without removing other courses", () => {
+test("skill courses stay in their respective semesters alongside all other courses", () => {
   assert.equal(SEMESTERS.length, 8);
+  assert.deepEqual(SEMESTERS.map((semester) =>
+    semesterResourceCourses(semester.courses)
+      .filter((course) => course.name.startsWith("Skill Enhancement Course"))
+      .map((course) => course.name.replace(/\*$/, "")),
+  ), [
+    ["Skill Enhancement Course-I", "Skill Enhancement Course-II"],
+    ["Skill Enhancement Course-III", "Skill Enhancement Course-IV"],
+    ["Skill Enhancement Course-V"], [], [], [], [], [],
+  ]);
   for (const semester of SEMESTERS) {
     const courses = semesterResourceCourses(semester.courses);
-    assert.equal(courses.some((course) => course.name.startsWith("Skill Enhancement Course")), false);
-    assert.deepEqual(courses, semester.courses.filter((course) => !course.name.startsWith("Skill Enhancement Course")));
+    assert.deepEqual(courses, semester.courses);
   }
 });
