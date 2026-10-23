@@ -86,3 +86,8 @@
 - [ ] Update signup to username, email, and password with immediate access
 - [ ] Verify signup and sign-in behavior and build
 - [ ] Add CAPTCHA after site and secret keys are supplied
+
+## HORT 282 course material
+- [x] Verify uploaded HORT 282 PDF by internal course title and code
+- [x] Add verified HORT 282 PDF to Semester IV Semester Exam Resources
+- [x] Verify HORT 282 View and Download links
