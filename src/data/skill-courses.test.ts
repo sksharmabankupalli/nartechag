@@ -1,7 +1,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { SEMESTERS } from "./curriculum";
-import { SKILL_COURSES, SKILL_MATERIAL_OPTIONS, semesterResourceCourses } from "./skill-courses";
+import { SKILL_COURSES, SKILL_MATERIAL_OPTIONS, SKILL_MATERIALS, semesterResourceCourses } from "./skill-courses";
 
 test("SEC courses have exactly one material option", () => {
   assert.deepEqual(SKILL_MATERIAL_OPTIONS, ["Material Source"]);
@@ -14,7 +14,18 @@ test("all existing skill courses are collected on the SEC page", () => {
     "Skill Enhancement Course-III",
     "Skill Enhancement Course-IV",
     "Skill Enhancement Course-V",
+    "Post Harvest Technology",
   ]);
+});
+
+test("Post Harvest Technology is SEC VI with lectures 1–16 up to mid", () => {
+  const course = SKILL_COURSES.find((entry) => entry.code === "SEC VI");
+  assert.equal(course?.name, "Post Harvest Technology");
+  const material = SKILL_MATERIALS["SEC VI"];
+  assert.equal(material?.lectureStart, 1);
+  assert.equal(material?.lectureEnd, 16);
+  assert.equal(material?.coverage, "up to mid");
+  assert.ok(material?.url.endsWith("/POST_HARVEST_TECHNOLOGY_1-16_NARTECHAG.APP.pdf"));
 });
 
 test("skill courses stay in their respective semesters alongside all other courses", () => {
