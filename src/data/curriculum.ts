@@ -97,6 +97,7 @@ export const SEMESTERS: Semester[] = [
       { code: "AECO 241", name: "Principles of Agricultural Economics and Farm Management", credits: "" },
       { code: "AENG 251", name: "Farm Machinery and Power", credits: "" },
       { code: "HORT 282", name: "Production Technology of Vegetables and Spices", credits: "" },
+      { code: "ENTO 231", name: "Insect Ecology and Concepts of Integrated Pest Management", credits: "" },
     ],
   },
   {
