@@ -4,6 +4,7 @@
 - [x] Verify and add Post Harvest Technology (SEC I) on the common SEC materials page
 - [x] Label the PDF Lectures 1–16 (up to mid) with green View and Download
 - [x] Verify SEC I material links and unchanged semester skill courses
+- [x] Remove the "Course Code (SEC I)" suffix from the common SEC page
 
 ## Skill enhancement courses
 - [x] Restore each skill course in its original semester with only a SEC SOURCES link
