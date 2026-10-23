@@ -1,5 +1,9 @@
 # Roadmap
 
+## SEC II material
+- [x] Verify uploaded Organic Production Technology PDF and add it as SEC II on the common SEC page
+- [x] Label it Lectures 1–16 (up to mid) with green View and Download and verify links
+
 ## SEC I material
 - [x] Verify and add Post Harvest Technology (SEC I) on the common SEC materials page
 - [x] Label the PDF Lectures 1–16 (up to mid) with green View and Download
