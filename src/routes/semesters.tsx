@@ -1,4 +1,4 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { useState } from "react";
 import { Download, Eye, FileText, Search, X } from "lucide-react";
@@ -14,6 +14,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 import { RESOURCE_CATEGORIES, YEARS, type Semester } from "@/data/curriculum";
+import { semesterResourceCourses } from "@/data/skill-courses";
 import { supabase } from "@/integrations/supabase/client";
 
 export const Route = createFileRoute("/semesters")({
@@ -60,7 +61,7 @@ function SemestersPage() {
         !query || course.name.toLowerCase().includes(query) ||
         course.code.toLowerCase().replace(/\s+/g, "").includes(compactQuery),
       ),
-    })).filter((semester) => !query || semester.courses.length > 0),
+    })).filter((semester) => !query || semester.courses.length > 0 || "skill enhancement courses".includes(query)),
   })).filter((year) => !query || year.semesters.length > 0);
   const matchCount = filteredYears.reduce((total, year) =>
     total + year.semesters.reduce((count, semester) => count + semester.courses.length, 0), 0);
@@ -155,6 +156,7 @@ function SemesterCard({
   semester: Semester;
   resourcesFor: (semester: number, course: string) => Resource[];
 }) {
+  const courses = semesterResourceCourses(semester.courses);
   return (
     <div className="min-w-0 rounded-2xl border border-border bg-card p-6 shadow-soft">
       <div className="flex flex-wrap items-center justify-between gap-2">
@@ -164,13 +166,19 @@ function SemesterCard({
         </Badge>
       </div>
 
-      {semester.courses.length === 0 ? (
+      <section aria-label="Skill Enhancement Courses" className="mt-4 border-b border-border pb-4">
+        <Button asChild className="h-auto min-h-10 w-full whitespace-normal text-center">
+          <Link to="/skill-courses">Skill Enhancement Courses</Link>
+        </Button>
+      </section>
+
+      {courses.length === 0 ? (
         <p className="mt-5 rounded-lg border border-dashed border-border p-6 text-center text-sm text-muted-foreground">
           Content coming soon — courses and resources for this semester will be added shortly.
         </p>
       ) : (
         <Accordion type="multiple" className="mt-4">
-          {semester.courses.map((course) => {
+          {courses.map((course) => {
             const items = resourcesFor(semester.number, course.name);
             return (
               <AccordionItem key={course.name} value={course.name} className="rounded-lg border-2 border-transparent px-3 data-[state=open]:border-primary last:data-[state=open]:border-b-2">
