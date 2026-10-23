@@ -15,6 +15,7 @@ import { Route as AuthRouteImport } from './routes/auth'
 import { Route as CollegesRouteImport } from './routes/colleges'
 import { Route as OnlineCoursesRouteImport } from './routes/online-courses'
 import { Route as SemestersRouteImport } from './routes/semesters'
+import { Route as SkillCoursesRouteImport } from './routes/skill-courses'
 import { Route as UpdatesRouteImport } from './routes/updates'
 
 const IndexRoute = IndexRouteImport.update({
@@ -47,6 +48,11 @@ const SemestersRoute = SemestersRouteImport.update({
   path: '/semesters',
   getParentRoute: () => rootRouteImport,
 } as any)
+const SkillCoursesRoute = SkillCoursesRouteImport.update({
+  id: '/skill-courses',
+  path: '/skill-courses',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const UpdatesRoute = UpdatesRouteImport.update({
   id: '/updates',
   path: '/updates',
@@ -60,6 +66,7 @@ export interface FileRoutesByFullPath {
   '/colleges': typeof CollegesRoute
   '/online-courses': typeof OnlineCoursesRoute
   '/semesters': typeof SemestersRoute
+  '/skill-courses': typeof SkillCoursesRoute
   '/updates': typeof UpdatesRoute
 }
 export interface FileRoutesByTo {
@@ -69,6 +76,7 @@ export interface FileRoutesByTo {
   '/colleges': typeof CollegesRoute
   '/online-courses': typeof OnlineCoursesRoute
   '/semesters': typeof SemestersRoute
+  '/skill-courses': typeof SkillCoursesRoute
   '/updates': typeof UpdatesRoute
 }
 export interface FileRoutesById {
@@ -79,6 +87,7 @@ export interface FileRoutesById {
   '/colleges': typeof CollegesRoute
   '/online-courses': typeof OnlineCoursesRoute
   '/semesters': typeof SemestersRoute
+  '/skill-courses': typeof SkillCoursesRoute
   '/updates': typeof UpdatesRoute
 }
 export interface FileRouteTypes {
@@ -90,6 +99,7 @@ export interface FileRouteTypes {
     | '/colleges'
     | '/online-courses'
     | '/semesters'
+    | '/skill-courses'
     | '/updates'
   fileRoutesByTo: FileRoutesByTo
   to:
@@ -99,6 +109,7 @@ export interface FileRouteTypes {
     | '/colleges'
     | '/online-courses'
     | '/semesters'
+    | '/skill-courses'
     | '/updates'
   id:
     | '__root__'
@@ -108,6 +119,7 @@ export interface FileRouteTypes {
     | '/colleges'
     | '/online-courses'
     | '/semesters'
+    | '/skill-courses'
     | '/updates'
   fileRoutesById: FileRoutesById
 }
@@ -118,6 +130,7 @@ export interface RootRouteChildren {
   CollegesRoute: typeof CollegesRoute
   OnlineCoursesRoute: typeof OnlineCoursesRoute
   SemestersRoute: typeof SemestersRoute
+  SkillCoursesRoute: typeof SkillCoursesRoute
   UpdatesRoute: typeof UpdatesRoute
 }
 
@@ -165,6 +178,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof SemestersRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/skill-courses': {
+      id: '/skill-courses'
+      path: '/skill-courses'
+      fullPath: '/skill-courses'
+      preLoaderRoute: typeof SkillCoursesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/updates': {
       id: '/updates'
       path: '/updates'
@@ -182,6 +202,7 @@ const rootRouteChildren: RootRouteChildren = {
   CollegesRoute: CollegesRoute,
   OnlineCoursesRoute: OnlineCoursesRoute,
   SemestersRoute: SemestersRoute,
+  SkillCoursesRoute: SkillCoursesRoute,
   UpdatesRoute: UpdatesRoute,
 }
 export const routeTree = rootRouteImport
