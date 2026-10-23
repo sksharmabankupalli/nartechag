@@ -91,3 +91,5 @@
 - [x] Verify uploaded HORT 282 PDF by internal course title and code
 - [x] Add verified HORT 282 PDF to Semester IV Semester Exam Resources
 - [x] Verify HORT 282 View and Download links
+
+- [x] Add ENTO 231 course with lecture outlines; move it to 2nd Year Semester III

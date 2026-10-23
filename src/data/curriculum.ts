@@ -80,6 +80,7 @@ export const SEMESTERS: Semester[] = [
       { code: "AEXT 292", name: "Fundamentals of Extension Education", credits: "2(1+1)" },
       { code: "PATH 271", name: "Fundamentals of Nematology", credits: "2(1+1)" },
       { code: "AGRO 202", name: "Principles and Practices of Natural Farming", credits: "2(1+1)" },
+      { code: "ENTO 231", name: "Insect Ecology and Concepts of Integrated Pest Management", credits: "2(1+1)" },
     ],
   },
   {
@@ -97,7 +98,6 @@ export const SEMESTERS: Semester[] = [
       { code: "AECO 241", name: "Principles of Agricultural Economics and Farm Management", credits: "" },
       { code: "AENG 251", name: "Farm Machinery and Power", credits: "" },
       { code: "HORT 282", name: "Production Technology of Vegetables and Spices", credits: "" },
-      { code: "ENTO 231", name: "Insect Ecology and Concepts of Integrated Pest Management", credits: "" },
     ],
   },
   {
