@@ -3,7 +3,7 @@
 ## Skill enhancement courses
 - [x] Restore each skill course in its original semester with only a SEC SOURCES link
 - [x] Add a dedicated SEC page with placeholder courses and Material Source only
-- [ ] Verify restored semester skill courses and SEC SOURCES links without altering other resources
+- [x] Verify restored semester skill courses and SEC SOURCES links without altering other resources
 
 ## AECO 341 and resource announcement
 - [x] Verify uploaded AECO 341 and add to Year 3 Semester VI Semester Exam Resources
