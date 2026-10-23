@@ -33,10 +33,7 @@ function SkillCoursesPage() {
             return (
             <AccordionItem key={course.name} value={course.name} className="rounded-xl border-2 border-border bg-card px-5 shadow-soft data-[state=open]:border-primary last:border-b-2">
               <AccordionTrigger className="py-5 text-left font-display text-lg font-semibold hover:no-underline">
-                <span className="min-w-0 break-words">
-                  {course.name}
-                  {course.code !== "—" && <span className="text-primary"> — Course Code ({course.code})</span>}
-                </span>
+                <span className="min-w-0 break-words">{course.name}</span>
               </AccordionTrigger>
               <AccordionContent>
                 <h2 className="text-sm font-medium">{SKILL_MATERIAL_OPTIONS[0]}</h2>
