@@ -1,0 +1,3 @@
+INSERT INTO public.resources (year, semester, course_name, title, resource_type, url)
+SELECT 2, 4, 'Insect Ecology and Concepts of Integrated Pest Management', 'Lecture Outlines (ENTO 231)', 'lecture_outlines', '/__l5e/assets-v1/f91c0ee6-85e0-4551-a5f1-c671e7fc011c/ENTO_231_Insect_Ecology_IPM_Outlines.pdf'
+WHERE NOT EXISTS (SELECT 1 FROM public.resources WHERE course_name='Insect Ecology and Concepts of Integrated Pest Management' AND resource_type='lecture_outlines');
