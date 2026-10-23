@@ -7,21 +7,21 @@ test("SEC courses have exactly one material option", () => {
   assert.deepEqual(SKILL_MATERIAL_OPTIONS, ["Material Source"]);
 });
 
-test("all existing skill courses are collected on the SEC page", () => {
+test("SEC I is Post Harvest Technology, followed by the remaining skill courses", () => {
   assert.deepEqual(SKILL_COURSES.map((course) => course.name), [
-    "Skill Enhancement Course-I",
+    "Post Harvest Technology",
     "Skill Enhancement Course-II",
     "Skill Enhancement Course-III",
     "Skill Enhancement Course-IV",
     "Skill Enhancement Course-V",
-    "Post Harvest Technology",
   ]);
 });
 
-test("Post Harvest Technology is SEC VI with lectures 1–16 up to mid", () => {
-  const course = SKILL_COURSES.find((entry) => entry.code === "SEC VI");
+test("Post Harvest Technology is SEC I with lectures 1–16 up to mid", () => {
+  const course = SKILL_COURSES.find((entry) => entry.code === "SEC I");
   assert.equal(course?.name, "Post Harvest Technology");
-  const material = SKILL_MATERIALS["SEC VI"];
+  assert.equal(SKILL_COURSES.some((entry) => entry.code === "SEC VI"), false);
+  const material = SKILL_MATERIALS["SEC I"];
   assert.equal(material?.lectureStart, 1);
   assert.equal(material?.lectureEnd, 16);
   assert.equal(material?.coverage, "up to mid");
