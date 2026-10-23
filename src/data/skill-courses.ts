@@ -12,5 +12,5 @@ export const SKILL_COURSES = SEMESTERS.flatMap((semester) => semester.courses)
   .map((course) => ({ ...course, name: course.name.replace(/\*$/, "") }));
 
 export function semesterResourceCourses(courses: Course[]) {
-  return courses.filter((course) => !isSkillEnhancementCourse(course));
+  return courses;
 }

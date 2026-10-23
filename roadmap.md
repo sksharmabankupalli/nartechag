@@ -1,9 +1,9 @@
 # Roadmap
 
 ## Skill enhancement courses
-- [x] Replace semester SEC sub-items with one shared green link in all eight semesters
+- [x] Restore each skill course in its original semester with only a SEC SOURCES link
 - [x] Add a dedicated SEC page with placeholder courses and Material Source only
-- [x] Verify semester links and SEC page without altering other resources
+- [ ] Verify restored semester skill courses and SEC SOURCES links without altering other resources
 
 ## AECO 341 and resource announcement
 - [x] Verify uploaded AECO 341 and add to Year 3 Semester VI Semester Exam Resources
