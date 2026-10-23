@@ -10,7 +10,7 @@
 <!-- LOVABLE:END -->
 
 - Filter resource-page course lists locally from the canonical curriculum by name or whitespace-normalized course code; this preserves year/semester placement without additional network requests.
-- Derive the common SEC materials list from canonical skill-course entries and retain those entries in their semester accordions; each semester skill course links to the common materials page instead of duplicating resource categories.
+- Derive the common SEC materials list from canonical skill-course entries, with supplemental named uploads in the SEC data module when no semester is specified; retain semester entries and their common-page links to avoid inventing placement. Keep SEC material URLs and coverage in that module for consistent display.
 - Centralize website visual styling in global semantic tokens and shared UI components so all pages stay consistent without changing their content or layout structure.
 - Fetch the university announcement ticker through a public server function and parse HTML with bundled linkedom; use only explicit publication dates, never deadlines, for ordering and NEW badges.
 - Keep university search, category and pagination in route search parameters and render the uploaded calendar in a shared image viewer; this keeps navigation restorable and fallback views complete.
