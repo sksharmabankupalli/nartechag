@@ -3,7 +3,7 @@
 ## SEC VI material
 - [x] Verify and add Post Harvest Technology (SEC VI) on the common SEC materials page
 - [x] Label the PDF Lectures 1–16 (up to mid) with green View and Download
-- [ ] Verify SEC VI material links and unchanged semester skill courses
+- [x] Verify SEC VI material links and unchanged semester skill courses
 
 ## Skill enhancement courses
 - [x] Restore each skill course in its original semester with only a SEC SOURCES link
