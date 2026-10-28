@@ -13,7 +13,7 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@
 import { PROGRAM_TOTALS, SEMESTERS } from "@/data/curriculum";
 import { useAuth } from "@/hooks/useAuth";
 import type { CSSProperties } from "react";
-import heroAsset from "@/assets/golden-hour-farming-innovation.webp.asset.json";
+import heroAsset from "@/assets/sunrise-agtech-valley-study.webp.asset.json";
 
 
 
