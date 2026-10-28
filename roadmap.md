@@ -115,3 +115,7 @@
 ## Updates page calendar only
 - [x] Remove the Latest updates section from the ANGRAU Updates page
 - [x] Keep the calendar and rename it ANGRAU Calendar; verify the page and links
+
+## Home page banner
+- [x] Remove the sunrise wallpaper banner from the home page and delete its unused asset
+- [x] Verify the page has no banner image and all green option links still work

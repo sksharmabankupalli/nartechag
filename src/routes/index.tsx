@@ -12,7 +12,6 @@ import {
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { PROGRAM_TOTALS, SEMESTERS } from "@/data/curriculum";
 import { useAuth } from "@/hooks/useAuth";
-import heroAsset from "@/assets/Smart_Farming_at_Sunrise.png.asset.json";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -73,16 +72,6 @@ function Home() {
             into one calm, organised study hub.
           </p>
 
-          <figure className="mt-8 overflow-hidden rounded-xl border border-border bg-card shadow-soft">
-            <img
-              src={heroAsset.url}
-              alt="Smart farming at sunrise: a young seedling growing from an open book beside a graduation cap and a laptop, with a drone flying over a green field at dawn"
-              className="aspect-[16/7] w-full origin-right scale-[1.22] object-cover object-center"
-              loading="eager"
-              width={1672}
-              height={941}
-            />
-          </figure>
 
           <div aria-label="Page and payment options" className="mt-8 flex max-w-2xl flex-col gap-3">
             <Button
