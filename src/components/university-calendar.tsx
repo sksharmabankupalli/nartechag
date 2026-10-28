@@ -44,7 +44,7 @@ export function UniversityCalendar() {
       <div className="grid grid-cols-[minmax(0,1fr)_auto] items-start gap-4">
         <div className="min-w-0">
           <p className="text-sm font-semibold text-primary">UNIVERSITY YEAR · 2026</p>
-          <h2 className="mt-2 text-2xl sm:text-3xl">Academic calendar</h2>
+          <h2 className="mt-2 text-2xl sm:text-3xl">ANGRAU Calendar</h2>
           <p className="mt-3 text-muted-foreground">ANGRAU holidays and special events for 2026.</p>
         </div>
         <CalendarDays className="mt-2 size-8 shrink-0 text-primary" aria-hidden="true" />
