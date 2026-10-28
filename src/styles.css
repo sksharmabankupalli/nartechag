@@ -117,9 +117,6 @@
   --announcement-border: oklch(0.88 0.09 90);
   --announcement-foreground: oklch(0.36 0.06 70);
   --announcement-gradient: linear-gradient(110deg, var(--announcement-start), var(--announcement-end));
-  /* Home hero wallpaper scrims: off-white veil over the photo so text stays readable. */
-  --hero-scrim: linear-gradient(90deg, rgba(248, 250, 246, 0.95) 0%, rgba(248, 250, 246, 0.92) 48%, rgba(248, 250, 246, 0.55) 66%, rgba(248, 250, 246, 0) 84%);
-  --hero-scrim-mobile: linear-gradient(180deg, rgba(248, 250, 246, 0.92) 0%, rgba(248, 250, 246, 0.85) 100%);
 }
 
 .dark {
@@ -246,18 +243,23 @@
   .resource-announcement { animation: announcement-fade 450ms ease-out both; }
 }
 
-/* Home hero wallpaper — applied to the first page hero only. */
+/* Home hero wallpaper — first page hero only, shown at full strength with no veil. */
 .hero-wallpaper {
-  background-image: var(--hero-scrim), var(--hero-image);
+  background-image: var(--hero-image);
   background-size: cover;
   background-position: center right;
   background-repeat: no-repeat;
   min-height: 85vh;
 }
 
+/* Soft off-white halo keeps the hero copy readable over the artwork. */
+.hero-wallpaper h1,
+.hero-wallpaper p {
+  text-shadow: 0 1px 0 rgba(248, 250, 246, 0.9), 0 0 18px rgba(248, 250, 246, 0.8);
+}
+
 @media (max-width: 640px) {
   .hero-wallpaper {
-    background-image: var(--hero-scrim-mobile), var(--hero-image);
     background-position: center;
   }
 }
