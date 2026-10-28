@@ -252,25 +252,18 @@
   min-height: 85vh;
 }
 
-/* Soft off-white halo keeps the hero copy readable over the full-strength artwork. */
-.hero-wallpaper h1 {
-  text-shadow: 0 1px 0 rgba(248, 250, 246, 0.95), 0 0 20px rgba(248, 250, 246, 0.85);
+/* The intro copy sits on a light panel so it stays readable while the artwork keeps full strength. */
+.hero-wallpaper .hero-lead {
+  background: rgba(248, 250, 246, 0.74);
+  -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px);
+  border: 1px solid rgba(248, 250, 246, 0.65);
+  border-radius: 0.75rem;
+  padding: 0.9rem 1.15rem;
 }
 
-/* White letter-halo keeps the copy readable over the artwork without dimming the picture. */
-.hero-wallpaper p {
-  color: var(--foreground);
-  text-shadow:
-    1px 1px 0 rgba(248, 250, 246, 0.98),
-    -1px -1px 0 rgba(248, 250, 246, 0.98),
-    1px -1px 0 rgba(248, 250, 246, 0.98),
-    -1px 1px 0 rgba(248, 250, 246, 0.98),
-    0 1px 0 rgba(248, 250, 246, 0.98),
-    1px 0 0 rgba(248, 250, 246, 0.98),
-    -1px 0 0 rgba(248, 250, 246, 0.98),
-    0 -1px 0 rgba(248, 250, 246, 0.98),
-    0 0 14px rgba(248, 250, 246, 0.9),
-    0 0 30px rgba(248, 250, 246, 0.8);
+.hero-wallpaper h1 {
+  text-shadow: 0 0 22px rgba(248, 250, 246, 0.75), 0 1px 0 rgba(248, 250, 246, 0.7);
 }
 
 @media (max-width: 640px) {
