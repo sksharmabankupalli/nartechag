@@ -118,8 +118,8 @@
   --announcement-foreground: oklch(0.36 0.06 70);
   --announcement-gradient: linear-gradient(110deg, var(--announcement-start), var(--announcement-end));
   /* Home hero wallpaper scrims: off-white veil over the photo so text stays readable. */
-  --hero-scrim: linear-gradient(90deg, rgba(248, 250, 246, 0.92) 0%, rgba(248, 250, 246, 0) 65%);
-  --hero-scrim-mobile: linear-gradient(180deg, rgba(248, 250, 246, 0.9) 0%, rgba(248, 250, 246, 0.8) 100%);
+  --hero-scrim: linear-gradient(90deg, rgba(248, 250, 246, 0.95) 0%, rgba(248, 250, 246, 0.92) 48%, rgba(248, 250, 246, 0.55) 66%, rgba(248, 250, 246, 0) 84%);
+  --hero-scrim-mobile: linear-gradient(180deg, rgba(248, 250, 246, 0.92) 0%, rgba(248, 250, 246, 0.85) 100%);
 }
 
 .dark {
