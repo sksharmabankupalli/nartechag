@@ -12,6 +12,10 @@ import {
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { PROGRAM_TOTALS, SEMESTERS } from "@/data/curriculum";
 import { useAuth } from "@/hooks/useAuth";
+import type { CSSProperties } from "react";
+import heroAsset from "@/assets/golden-hour-farming-innovation.webp.asset.json";
+
+
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -30,6 +34,14 @@ export const Route = createFileRoute("/")({
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+    ],
+    links: [
+      {
+        rel: "preload",
+        as: "image",
+        type: "image/webp",
+        href: heroAsset.url,
+      },
     ],
   }),
   component: Home,
@@ -57,7 +69,10 @@ function Home() {
   const { isAdmin } = useAuth();
   return (
     <PageShell>
-      <section className="surface-field border-b border-border">
+      <section
+        className="hero-wallpaper border-b border-border"
+        style={{ "--hero-image": `url("${heroAsset.url}")` } as CSSProperties}
+      >
         <div className="mx-auto max-w-6xl px-4 py-20 sm:px-6 lg:py-28">
           <Badge variant="secondary" className="mb-5">
             B.Sc (Hons) Agriculture · ANGRAU
