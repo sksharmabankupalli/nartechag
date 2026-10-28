@@ -1,5 +1,8 @@
 # Roadmap
 
+## Google AdSense
+- [x] Add AdSense verification script to every page's head
+
 ## SEC II material
 - [x] Verify uploaded Organic Production Technology PDF and add it as SEC II on the common SEC page
 - [x] Label it Lectures 1–16 (up to mid) with green View and Download and verify links
