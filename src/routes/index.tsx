@@ -54,7 +54,7 @@ const HIGHLIGHTS = [
 ];
 
 function Home() {
-  const { user, isAdmin } = useAuth();
+  const { isAdmin } = useAuth();
   return (
     <PageShell>
       <section className="surface-field border-b border-border">

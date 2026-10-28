@@ -21,7 +21,7 @@ const NAV = [
 
 export function SiteHeader() {
   const [open, setOpen] = useState(false);
-  const { user, fullName, isAdmin, signOut } = useAuth();
+  const { user, isAdmin, signOut } = useAuth();
   const pathname = useRouterState({ select: (s) => s.location.pathname });
 
   return (
