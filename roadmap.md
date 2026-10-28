@@ -111,3 +111,7 @@
 - [x] Verify HORT 282 View and Download links
 
 - [x] Add ENTO 231 course with lecture outlines; move it to 2nd Year Semester III
+
+## Updates page calendar only
+- [x] Remove the Latest updates section from the ANGRAU Updates page
+- [x] Keep the calendar and rename it ANGRAU Calendar; verify the page and links
