@@ -81,7 +81,7 @@ function Home() {
             <span className="text-gradient-crop">NarTechAg</span>
             <span className="block text-foreground">One stop for all your study needs.</span>
           </h1>
-          <p className="mt-5 max-w-2xl text-lg text-muted-foreground">
+          <p className="hero-lead mt-5 max-w-2xl text-lg text-foreground">
             Study material for the agriculture degree is scattered across groups, drives and notice
             boards. NarTechAg gathers the course structure, semester resources and university updates
             into one calm, organised study hub.
