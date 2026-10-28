@@ -54,7 +54,7 @@ const HIGHLIGHTS = [
 ];
 
 function Home() {
-  const { user, isAdmin } = useAuth();
+  const { isAdmin } = useAuth();
   return (
     <PageShell>
       <section className="surface-field border-b border-border">
@@ -88,11 +88,6 @@ function Home() {
             <Button asChild size="lg" className="h-auto min-h-11 w-full whitespace-normal py-3 text-center">
               <Link to="/colleges">Colleges</Link>
             </Button>
-            {!user && (
-              <Button asChild size="lg" className="h-auto min-h-11 w-full whitespace-normal py-3 text-center">
-                <Link to="/auth">Login / Sign Up</Link>
-              </Button>
-            )}
             {isAdmin && (
               <Button asChild size="lg" className="h-auto min-h-11 w-full whitespace-normal py-3 text-center">
                 <Link to="/admin">Admin</Link>
