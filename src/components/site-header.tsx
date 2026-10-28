@@ -80,11 +80,8 @@ export function SiteHeader() {
         </nav>
 
         <div className="ml-auto flex shrink-0 items-center gap-2 xl:ml-3">
-          {user ? (
+          {user && (
             <>
-              <span className="hidden text-sm text-muted-foreground sm:inline">
-                Welcome back, <span className="font-medium text-foreground">{fullName}</span>
-              </span>
               {isAdmin && (
                 <Button asChild variant="outline" size="sm" className="hidden sm:inline-flex">
                   <Link to="/admin">Admin</Link>
@@ -94,10 +91,6 @@ export function SiteHeader() {
                 Sign out
               </Button>
             </>
-          ) : (
-            <Button asChild size="sm">
-              <Link to="/auth">Login / Sign Up</Link>
-            </Button>
           )}
 
           <button
