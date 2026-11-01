@@ -233,14 +233,47 @@
 .calendar-zoom-200 .calendar-image { width: 200%; }
 .calendar-zoom-225 .calendar-image { width: 225%; }
 .calendar-zoom-250 .calendar-image { width: 250%; }
-.resource-announcement {
-  background: var(--announcement-gradient);
-  border-color: var(--announcement-border);
-  color: var(--announcement-foreground);
+/* Coming Soon cards on the Semester Resources page — green/agri theme. */
+.coming-soon-card {
+  background: linear-gradient(135deg, var(--card) 0%, var(--muted) 100%);
+  border-color: var(--border);
+  color: var(--foreground);
+  transition: box-shadow 180ms ease, transform 180ms ease;
 }
-@keyframes announcement-fade { from { opacity: 0; } to { opacity: 1; } }
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .coming-soon-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-lift);
+  }
+}
+.coming-soon-pill {
+  background-color: var(--primary);
+  color: var(--primary-foreground);
+}
+.coming-soon-track {
+  height: 0.45rem;
+  overflow: hidden;
+  border-radius: 9999px;
+  background-color: var(--muted);
+  border: 1px solid var(--border);
+}
+.coming-soon-bar {
+  height: 100%;
+  width: 40%;
+  border-radius: 9999px;
+  background: linear-gradient(90deg, var(--secondary), var(--primary));
+}
+@keyframes coming-soon-pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.75; transform: scale(1.05); }
+}
+@keyframes coming-soon-progress {
+  0% { transform: translateX(-110%); }
+  100% { transform: translateX(260%); }
+}
 @media (prefers-reduced-motion: no-preference) {
-  .resource-announcement { animation: announcement-fade 450ms ease-out both; }
+  .coming-soon-pill { animation: coming-soon-pulse 2s ease-in-out infinite; }
+  .coming-soon-bar { animation: coming-soon-progress 2.4s ease-in-out infinite; }
 }
 
 /* Home hero wallpaper — first page hero only, shown at full strength with no veil. */

@@ -84,18 +84,42 @@ function SemestersPage() {
 
   return (
     <PageShell>
-      <aside aria-label="Resources Update" className="resource-announcement mx-auto mt-6 w-[calc(100%-2rem)] max-w-6xl rounded-xl border p-5 sm:mt-8 sm:p-6">
-        <div className="flex items-start gap-4">
-          <span className="shrink-0 text-2xl" aria-hidden="true">🚧</span>
-          <div className="min-w-0">
-            <h2 className="text-lg font-bold">Resources Update</h2>
-            <ul className="mt-3 list-disc space-y-2 pl-5 text-sm sm:text-base">
-              <li><strong>3rd Year:</strong> Materials are being revised as per the new 6th Deans' syllabus. Live in 2–3 weeks.</li>
-              <li><strong>1st &amp; 2nd Year:</strong> PYQs will be uploaded shortly.</li>
-            </ul>
-            <p className="mt-4 text-xs italic sm:text-sm">Thank you for your patience!</p>
+      <aside aria-label="Coming soon" className="mx-auto mt-6 w-[calc(100%-2rem)] max-w-6xl sm:mt-8">
+        <div className="grid gap-5 sm:grid-cols-2">
+          <div className="coming-soon-card rounded-xl border p-5 shadow-soft sm:p-6">
+            <div className="flex items-start justify-between gap-3">
+              <span className="text-3xl" aria-hidden="true">📚</span>
+              <span className="coming-soon-pill rounded-full px-2.5 py-1 text-xs font-semibold uppercase tracking-wide">
+                Coming Soon
+              </span>
+            </div>
+            <h2 className="mt-3 text-lg font-bold">3rd Year Materials</h2>
+            <p className="mt-1.5 text-sm sm:text-base">
+              Revised as per the 6th Deans' Committee syllabus. Going live within a week!
+            </p>
+            <div className="coming-soon-track mt-4" aria-hidden="true">
+              <div className="coming-soon-bar" />
+            </div>
+          </div>
+          <div className="coming-soon-card rounded-xl border p-5 shadow-soft sm:p-6">
+            <div className="flex items-start justify-between gap-3">
+              <span className="text-3xl" aria-hidden="true">📝</span>
+              <span className="coming-soon-pill rounded-full px-2.5 py-1 text-xs font-semibold uppercase tracking-wide">
+                Coming Soon
+              </span>
+            </div>
+            <h2 className="mt-3 text-lg font-bold">1st &amp; 2nd Year PYQs</h2>
+            <p className="mt-1.5 text-sm sm:text-base">
+              Final uploads in progress. Available within a week!
+            </p>
+            <div className="coming-soon-track mt-4" aria-hidden="true">
+              <div className="coming-soon-bar" />
+            </div>
           </div>
         </div>
+        <p className="mt-5 text-center text-sm font-medium text-muted-foreground">
+          🌱 Fresh resources are sprouting, stay tuned!
+        </p>
       </aside>
       <PageHeader
         eyebrow="Study material"
