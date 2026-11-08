@@ -11,7 +11,7 @@ import {
 } from "@/components/ui/accordion";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { PROGRAM_TOTALS, SEMESTERS } from "@/data/curriculum";
-import { ConnectWithUs } from "@/components/social-links";
+import { ConnectWithUs, SocialIconLinks } from "@/components/social-links";
 import { useAuth } from "@/hooks/useAuth";
 import type { CSSProperties } from "react";
 import heroAsset from "@/assets/sunrise-agtech-valley-study.webp.asset.json";
@@ -75,6 +75,7 @@ function Home() {
         style={{ "--hero-image": `url("${heroAsset.url}")` } as CSSProperties}
       >
         <div className="mx-auto max-w-6xl px-4 py-20 sm:px-6 lg:py-28">
+          <SocialIconLinks className="mb-5 flex items-center gap-3" />
           <Badge variant="secondary" className="mb-5">
             B.Sc (Hons) Agriculture · ANGRAU
           </Badge>
