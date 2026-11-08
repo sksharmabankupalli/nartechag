@@ -3,6 +3,7 @@ import { useQuery } from "@tanstack/react-query";
 import { useState } from "react";
 import { Download, Eye, FileText, Search, X } from "lucide-react";
 import { PageShell, PageHeader } from "@/components/page-shell";
+import { TelegramPYQButton } from "@/components/telegram-pyq-button";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -249,6 +250,11 @@ function SemesterCard({
                                 {catItems.length}
                               </Badge>
                             </div>
+                            {cat.key === "pyqs" && (
+                              <div className="mt-2">
+                                <TelegramPYQButton />
+                              </div>
+                            )}
                             {catItems.length === 0 ? (
                               <p className="mt-1.5 text-xs text-muted-foreground">
                                 Coming soon.
