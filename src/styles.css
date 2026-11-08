@@ -261,3 +261,81 @@
     background-position: center;
   }
 }
+
+/* Connect With Us — soft agri-tech gradient with a faint leaf/circuit pattern. */
+.connect-section {
+  background:
+    radial-gradient(circle at 12% 20%, oklch(0.673098 0.162442 144.2083 / 0.14), transparent 42%),
+    radial-gradient(circle at 88% 80%, oklch(0.425388 0.115877 144.3078 / 0.12), transparent 45%),
+    repeating-linear-gradient(45deg, oklch(0.425388 0.115877 144.3078 / 0.035) 0 2px, transparent 2px 26px),
+    repeating-linear-gradient(-45deg, oklch(0.425388 0.115877 144.3078 / 0.035) 0 2px, transparent 2px 26px),
+    linear-gradient(160deg, oklch(0.96 0.02 135), oklch(0.985 0.008 124));
+}
+
+.connect-reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 600ms ease, transform 600ms ease;
+}
+
+.connect-visible .connect-reveal {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.connect-visible .connect-reveal:nth-child(2) {
+  transition-delay: 120ms;
+}
+
+/* Glassmorphism social cards with a per-platform gradient border. */
+.social-card {
+  position: relative;
+  background: oklch(1 0 0 / 0.62);
+  backdrop-filter: blur(10px);
+  border: 1.5px solid transparent;
+  background-clip: padding-box;
+  box-shadow: var(--shadow-soft);
+  transition: transform 220ms ease, box-shadow 220ms ease;
+}
+
+.social-card::before {
+  content: "";
+  position: absolute;
+  inset: -1.5px;
+  border-radius: inherit;
+  padding: 1.5px;
+  background: var(--social-border);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask-composite: exclude;
+  pointer-events: none;
+}
+
+.social-card-instagram { --social-border: linear-gradient(135deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5); --social-glow: rgba(214, 41, 118, 0.22); }
+.social-card-telegram { --social-border: linear-gradient(135deg, #229ed9, #54b6e8); --social-glow: rgba(34, 158, 217, 0.25); }
+.social-card-mail { --social-border: linear-gradient(135deg, #ea4335, #fbbc04); --social-glow: rgba(234, 67, 53, 0.2); }
+
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .social-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 18px 40px -14px var(--social-glow), var(--shadow-lift);
+  }
+  .social-card:hover .social-logo {
+    animation: social-logo-bounce 600ms ease;
+  }
+  .social-card:hover .social-arrow {
+    transform: translateX(5px);
+  }
+}
+
+.social-arrow {
+  transition: transform 220ms ease;
+}
+
+@keyframes social-logo-bounce {
+  0% { transform: translateY(0) rotate(0deg); }
+  35% { transform: translateY(-7px) rotate(-6deg); }
+  65% { transform: translateY(2px) rotate(4deg); }
+  100% { transform: translateY(0) rotate(0deg); }
+}
