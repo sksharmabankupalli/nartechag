@@ -276,43 +276,6 @@ function SemesterCard({
   );
 }
 
-const TELEGRAM_PYQS_URL = "https://t.me/+Y2Y_BXW3oPdiY2Fl";
-
-function TelegramIcon({ className }: { className?: string }) {
-  return (
-    <svg
-      viewBox="0 0 24 24"
-      role="img"
-      aria-hidden="true"
-      className={className}
-      fill="none"
-      xmlns="http://www.w3.org/2000/svg"
-    >
-      <circle cx="12" cy="12" r="12" fill="currentColor" />
-      <path
-        d="M17.6 7.06 15.5 16.6c-.16.7-.57.87-1.15.54l-3.18-2.34-1.53 1.48c-.17.17-.31.31-.64.31l.23-3.24 5.9-5.33c.26-.23-.06-.36-.4-.13L7.4 12.1l-3.15-.98c-.68-.21-.7-.68.15-1.01L16.7 5.9c.57-.21 1.07.13.9 1.16Z"
-        fill="hsl(var(--primary))"
-      />
-    </svg>
-  );
-}
-
-function GetPyqsTelegramButton() {
-  return (
-    <Button asChild className="h-9 gap-2 font-bold">
-      <a
-        href={TELEGRAM_PYQS_URL}
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Get PYQs from Telegram (opens in a new tab)"
-      >
-        <TelegramIcon className="h-5 w-5 shrink-0" />
-        Get PYQs From Telegram
-      </a>
-    </Button>
-  );
-}
-
 function ResourceRow({ resource }: { resource: Resource }) {
   // A resource with no URL is a "coming soon" placeholder — show the label
   // instead of broken View/Download buttons.
