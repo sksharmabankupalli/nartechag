@@ -32,9 +32,9 @@ export const SOCIAL_LINKS: SocialLink[] = [
   {
     key: "mail",
     label: "Contact us by Email",
-    href: "mailto:Contact.Nartechag@gmail.com?subject=Contact%20NarTechAg",
+    href: "mailto:contact.nartechag@gmail.com?subject=Contact%20NarTechAg",
     external: false,
-    subtext: "Contact.Nartechag@gmail.com",
+    subtext: "contact.nartechag@gmail.com",
   },
 ];
 
