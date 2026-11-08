@@ -234,7 +234,9 @@ function SemesterCard({
                   ) : (
                     <div className="space-y-2.5">
                       {RESOURCE_CATEGORIES.filter(
-                        (cat) => !(course.code === "STAM 101" && cat.key === "semester_exam"),
+                        (cat) =>
+                          cat.key !== "practicals" &&
+                          !(course.code === "STAM 101" && cat.key === "semester_exam"),
                       ).map((cat) => {
                         const catItems = items.filter(
                           (r) => (r.resource_type ?? "") === cat.key,
@@ -255,11 +257,11 @@ function SemesterCard({
                                 <TelegramPYQButton />
                               </div>
                             )}
-                            {catItems.length === 0 ? (
+                            {catItems.length === 0 && cat.key !== "pyqs" ? (
                               <p className="mt-1.5 text-xs text-muted-foreground">
                                 Coming soon.
                               </p>
-                            ) : (
+                            ) : catItems.length === 0 ? null : (
                                <ul className="mt-2 space-y-1.5">
                                  {catItems.map((r) => (
                                    <ResourceRow key={r.id} resource={r} />
