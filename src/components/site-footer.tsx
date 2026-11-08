@@ -1,5 +1,6 @@
 import { Link } from "@tanstack/react-router";
 import { Sprout } from "lucide-react";
+import { SocialIconLinks } from "@/components/social-links";
 
 export function SiteFooter() {
   return (
@@ -15,6 +16,7 @@ export function SiteFooter() {
           <p className="mt-3 text-sm text-footer-muted">
             One stop for all your study needs — a study hub for B.Sc (Hons) Agriculture students.
           </p>
+          <SocialIconLinks className="mt-4 flex items-center gap-3" />
         </div>
 
         <nav className="grid grid-cols-2 gap-x-10 gap-y-2 text-sm">

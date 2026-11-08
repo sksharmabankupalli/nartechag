@@ -11,6 +11,7 @@ import {
 } from "@/components/ui/accordion";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { PROGRAM_TOTALS, SEMESTERS } from "@/data/curriculum";
+import { ConnectWithUs } from "@/components/social-links";
 import { useAuth } from "@/hooks/useAuth";
 import type { CSSProperties } from "react";
 import heroAsset from "@/assets/sunrise-agtech-valley-study.webp.asset.json";
@@ -270,6 +271,8 @@ function Home() {
           ))}
         </Accordion>
       </section>
+
+      <ConnectWithUs />
     </PageShell>
   );
 }
