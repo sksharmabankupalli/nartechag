@@ -119,3 +119,7 @@
 ## Home page banner
 - [x] Remove the sunrise wallpaper banner from the home page and delete its unused asset
 - [x] Verify the page has no banner image and all green option links still work
+
+## AGRO 303 semester exam material
+- [x] Add the uploaded AGRO 303 course material PDF under Semester Exam Resources
+- [x] Verify the material shows in Semester VI with working View and Download links
